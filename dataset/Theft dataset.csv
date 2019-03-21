@@ -1,0 +1,2041 @@
+Theft Year,State,Rank,Make/Model,Model Year,Thefts,
+2015,Alabama,1,Chevrolet Pickup (Full Size),2005,499,
+2015,Alabama,2,Ford Pickup (Full Size),2006,357,
+2015,Alabama,3,Toyota Camry,2014,205,
+2015,Alabama,4,Nissan Altima,2014,191,
+2015,Alabama,4,Chevrolet Impala,2004,191,
+2015,Alabama,5,Honda Accord,1998,180,
+2015,Alabama,6,GMC Pickup (Full Size),1999,152,
+2015,Alabama,7,Dodge Pickup (Full Size),1998,138,
+2015,Alabama,8,Ford Mustang,2002,122,
+2015,Alabama,9,Ford Explorer,2002,119,
+2015,Alaska,1,Chevrolet Pickup (Full Size),2003,147,
+2015,Alaska,2,Ford Pickup (Full Size),2004,95,
+2015,Alaska,3,GMC Pickup (Full Size),1997,58,
+2015,Alaska,4,Honda Civic,2000,56,
+2015,Alaska,5,Honda Accord,1993,46,
+2015,Alaska,6,Dodge Pickup (Full Size),1998,44,
+2015,Alaska,7,Ford Explorer,1994,31,
+2015,Alaska,8,Jeep Cherokee/Grand Cherokee,1999,28,
+2015,Alaska,9,Ford Pickup (Small Size),2000,22,
+2015,Alaska,10,Chevrolet Pickup (Small Size),1998,20,
+2015,Arizona,1,Honda Accord,1997,"1,072",
+2015,Arizona,2,Honda Civic,1998,"1,016",
+2015,Arizona,3,Chevrolet Pickup (Full Size),2004,850,
+2015,Arizona,4,Ford Pickup (Full Size),2006,772,
+2015,Arizona,5,Dodge Pickup (Full Size),2001,428,
+2015,Arizona,6,Nissan Altima,2015,269,
+2015,Arizona,7,GMC Pickup (Full Size),2015,246,
+2015,Arizona,8,Toyota Camry,1999,210,
+2015,Arizona,9,Jeep Cherokee/Grand Cherokee,1994,207,
+2015,Arizona,10,Nissan Sentra,2014,200,
+2015,Arkansas,1,Chevrolet Pickup (Full Size),2004,402,
+2015,Arkansas,2,Ford Pickup (Full Size),2008,252,
+2015,Arkansas,3,GMC Pickup (Full Size),1997,174,
+2015,Arkansas,4,Dodge Pickup (Full Size),1999,127,
+2015,Arkansas,5,Honda Accord,1997,122,
+2015,Arkansas,6,Nissan Altima,2015,89,
+2015,Arkansas,7,Toyota Camry,2013,82,
+2015,Arkansas,8,Chevrolet Impala,2012,76,
+2015,Arkansas,9,Chevrolet Malibu,2006,72,
+2015,Arkansas,10,Chevrolet Tahoe,2003,68,
+2015,California,1,Honda Accord,1996,"28,345",
+2015,California,2,Honda Civic,1998,"28,045",
+2015,California,3,Chevrolet Pickup (Full Size),2006,"6,048",
+2015,California,4,Toyota Camry,1991,"5,345",
+2015,California,5,Ford Pickup (Full Size),2006,"4,504",
+2015,California,6,Acura Integra,1994,"4,273",
+2015,California,7,Toyota Corolla,2014,"3,339",
+2015,California,8,Nissan Sentra,1997,"2,555",
+2015,California,9,Nissan Altima,1997,"2,281",
+2015,California,10,Honda CR-V,1999,"2,033",
+2015,Colorado,1,Honda Civic,1997,"1,380",
+2015,Colorado,2,Honda Accord,1997,"1,167",
+2015,Colorado,3,Ford Pickup (Full Size),2005,595,
+2015,Colorado,4,Jeep Cherokee/Grand Cherokee,1999,594,
+2015,Colorado,5,Chevrolet Pickup (Full Size),2000,450,
+2015,Colorado,6,Dodge Pickup (Full Size),2001,308,
+2015,Colorado,7,Subaru Legacy,1996,215,
+2015,Colorado,8,Acura Integra,1994,208,
+2015,Colorado,9,Toyota Camry,1989,203,
+2015,Colorado,10,Toyota Corolla,2014,170,
+2015,Connecticut,1,Honda Accord,1997,534,
+2015,Connecticut,2,Honda Civic,1998,532,
+2015,Connecticut,3,Nissan Maxima,1998,184,
+2015,Connecticut,4,Nissan Altima,1997,143,
+2015,Connecticut,5,Toyota Camry,2014,131,
+2015,Connecticut,6,Jeep Cherokee/Grand Cherokee,2000,110,
+2015,Connecticut,7,Toyota Corolla,1999,99,
+2015,Connecticut,8,Honda CR-V,1998,92,
+2015,Connecticut,9,Dodge Caravan,2000,79,
+2015,Connecticut,10,Acura TL,2003,76,
+2015,Delaware,1,Honda Civic,2000,53,
+2015,Delaware,2,Honda Accord,2004,43,
+2015,Delaware,3,Chevrolet Pickup (Full Size),2005,36,
+2015,Delaware,4,Ford Pickup (Full Size),1999,31,
+2015,Delaware,5,Chevrolet Impala,2007,28,
+2015,Delaware,6,Nissan Altima,2006,23,
+2015,Delaware,6,Honda CR-V,2001,23,
+2015,Delaware,7,Ford Taurus,2002,22,
+2015,Delaware,8,Toyota Corolla,2010,21,
+2015,Delaware,9,Toyota Camry,2012,20,
+2015,District Of Columbia,1,Dodge Caravan,2002,167,
+2015,District Of Columbia,2,Honda Accord,1997,132,
+2015,District Of Columbia,3,Jeep Cherokee/Grand Cherokee,2001,109,
+2015,District Of Columbia,4,Toyota Camry,2014,95,
+2015,District Of Columbia,5,Toyota Corolla,2010,70,
+2015,District Of Columbia,6,Nissan Altima,2015,62,
+2015,District Of Columbia,7,Ford Pickup (Full Size),1997,49,
+2015,District Of Columbia,8,Chevrolet Pickup (Full Size),1999,41,
+2015,District Of Columbia,9,Chevrolet Impala,2013,40,
+2015,District Of Columbia,9,Chrysler 300/300M,2005,40,
+2015,Florida,1,Ford Pickup (Full Size),2006,"2,070",
+2015,Florida,2,Honda Civic,2000,"1,127",
+2015,Florida,3,Nissan Altima,2015,"1,098",
+2015,Florida,4,Toyota Camry,2014,"1,089",
+2015,Florida,5,Honda Accord,1997,"1,025",
+2015,Florida,6,Toyota Corolla,2014,914,
+2015,Florida,7,Chevrolet Pickup (Full Size),2015,786,
+2015,Florida,8,Chevrolet Impala,2015,542,
+2015,Florida,9,Dodge Pickup (Full Size),2005,534,
+2015,Florida,10,Nissan Maxima,2014,479,
+2015,Georgia,1,Honda Accord,1997,"1,052",
+2015,Georgia,2,Ford Pickup (Full Size),2006,954,
+2015,Georgia,3,Chevrolet Pickup (Full Size),1999,948,
+2015,Georgia,4,Honda Civic,2000,653,
+2015,Georgia,5,Toyota Camry,2014,568,
+2015,Georgia,6,Chevrolet Impala,2008,512,
+2015,Georgia,7,Nissan Altima,2014,484,
+2015,Georgia,8,Dodge Pickup (Full Size),2003,452,
+2015,Georgia,9,Jeep Cherokee/Grand Cherokee,2001,449,
+2015,Georgia,10,Dodge Caravan,2002,425,
+2015,Hawaii,1,Honda Civic,2000,250,
+2015,Hawaii,2,Honda Accord,1994,180,
+2015,Hawaii,3,Ford Pickup (Full Size),2006,154,
+2015,Hawaii,4,Toyota Tacoma,2003,86,
+2015,Hawaii,5,Toyota Corolla,2004,64,
+2015,Hawaii,6,Toyota Camry,2000,55,
+2015,Hawaii,7,Toyota 4Runner,1997,45,
+2015,Hawaii,8,Nissan Frontier,2004,44,
+2015,Hawaii,9,Nissan Altima,2004,42,
+2015,Hawaii,10,Dodge Pickup (Full Size),2001,37,
+2015,Idaho,1,Ford Pickup (Full Size),2004,108,
+2015,Idaho,2,Chevrolet Pickup (Full Size),1999,76,
+2015,Idaho,3,Honda Accord,1996,66,
+2015,Idaho,4,Honda Civic,1996,52,
+2015,Idaho,5,Dodge Pickup (Full Size),2001,45,
+2015,Idaho,6,GMC Pickup (Full Size),1992,32,
+2015,Idaho,7,Ford Explorer,2002,22,
+2015,Idaho,8,Ford Pickup (Small Size),1991,19,
+2015,Idaho,8,Toyota Camry,1997,19,
+2015,Idaho,8,Jeep Cherokee/Grand Cherokee,1997,19,
+2015,Illinois,1,Dodge Caravan,2000,"1,054",
+2015,Illinois,2,Chevrolet Impala,2008,579,
+2015,Illinois,3,Honda Civic,2000,566,
+2015,Illinois,4,Honda Accord,1997,481,
+2015,Illinois,5,Chevrolet Malibu,2011,442,
+2015,Illinois,6,Chevrolet Pickup (Full Size),1999,418,
+2015,Illinois,7,Ford Pickup (Full Size),2006,392,
+2015,Illinois,8,Toyota Camry,2014,383,
+2015,Illinois,9,Jeep Cherokee/Grand Cherokee,2000,374,
+2015,Illinois,10,Nissan Altima,2014,326,
+2015,Indiana,1,Ford Pickup (Full Size),2005,659,
+2015,Indiana,2,Chevrolet Pickup (Full Size),1994,619,
+2015,Indiana,3,Chevrolet Impala,2004,423,
+2015,Indiana,4,Dodge Pickup (Full Size),2001,263,
+2015,Indiana,5,Chevrolet Malibu,2005,238,
+2015,Indiana,6,GMC Pickup (Full Size),1995,192,
+2015,Indiana,7,Honda Accord,1994,186,
+2015,Indiana,7,Chevrolet Pickup (Small Size),1998,186,
+2015,Indiana,8,Pontiac Grand Prix,2004,183,
+2015,Indiana,9,Ford Taurus,2003,182,
+2015,Iowa,1,Chevrolet Pickup (Full Size),2002,258,
+2015,Iowa,2,Ford Pickup (Full Size),2001,198,
+2015,Iowa,3,Chevrolet Impala,2005,101,
+2015,Iowa,4,Dodge Pickup (Full Size),2004,93,
+2015,Iowa,5,Ford Taurus,2003,77,
+2015,Iowa,6,Jeep Cherokee/Grand Cherokee,2005,65,
+2015,Iowa,7,GMC Pickup (Full Size),2007,60,
+2015,Iowa,8,Toyota Camry,1997,59,
+2015,Iowa,9,Dodge Caravan,2005,56,
+2015,Iowa,9,Pontiac Grand Prix,1999,56,
+2015,Kansas,1,Chevrolet Pickup (Full Size),1999,439,
+2015,Kansas,2,Ford Pickup (Full Size),2003,415,
+2015,Kansas,3,Honda Accord,1996,319,
+2015,Kansas,4,Honda Civic,2000,220,
+2015,Kansas,5,Dodge Pickup (Full Size),2001,160,
+2015,Kansas,6,GMC Pickup (Full Size),1999,113,
+2015,Kansas,7,Chevrolet Impala,2004,98,
+2015,Kansas,8,Dodge Caravan,2002,89,
+2015,Kansas,8,Jeep Cherokee/Grand Cherokee,2000,89,
+2015,Kansas,9,Chevrolet Pickup (Small Size),1998,88,
+2015,Kentucky,1,Chevrolet Pickup (Full Size),1998,250,
+2015,Kentucky,2,Ford Pickup (Full Size),2001,241,
+2015,Kentucky,3,Toyota Camry,1999,178,
+2015,Kentucky,4,Chevrolet Impala,2005,118,
+2015,Kentucky,5,Toyota Corolla,2014,110,
+2015,Kentucky,6,Honda Accord,1997,108,
+2015,Kentucky,7,Ford Explorer,2000,99,
+2015,Kentucky,8,Ford Taurus,2002,94,
+2015,Kentucky,9,Dodge Pickup (Full Size),2001,93,
+2015,Kentucky,10,Chevrolet Pickup (Small Size),2000,79,
+2015,Louisiana,1,Chevrolet Pickup (Full Size),2006,671,
+2015,Louisiana,2,Ford Pickup (Full Size),2006,584,
+2015,Louisiana,3,GMC Pickup (Full Size),2006,253,
+2015,Louisiana,4,Toyota Camry,2007,224,
+2015,Louisiana,5,Dodge Pickup (Full Size),2003,222,
+2015,Louisiana,6,Nissan Altima,2014,215,
+2015,Louisiana,7,Honda Accord,2008,209,
+2015,Louisiana,8,Chevrolet Impala,2008,177,
+2015,Louisiana,9,GMC Yukon,2003,125,
+2015,Louisiana,10,Chevrolet Tahoe,2007,114,
+2015,Maine,1,Chevrolet Pickup (Full Size),2001,29,
+2015,Maine,2,GMC Pickup (Full Size),1993,26,
+2015,Maine,3,Jeep Cherokee/Grand Cherokee,2004,18,
+2015,Maine,4,Ford Pickup (Full Size),2004,15,
+2015,Maine,5,Toyota Corolla,2009,13,
+2015,Maine,5,Toyota Camry,1996,13,
+2015,Maine,6,Honda Civic,2009,11,
+2015,Maine,7,Chevrolet Impala,2000,8,
+2015,Maine,7,Ford Focus,2001,8,
+2015,Maine,8,Chevrolet Cobalt,2005,7,
+2015,Maryland,1,Dodge Caravan,2003,727,
+2015,Maryland,2,Honda Accord,2008,675,
+2015,Maryland,3,Toyota Camry,2014,347,
+2015,Maryland,4,Honda Civic,2012,313,
+2015,Maryland,5,Ford Pickup (Full Size),2004,287,
+2015,Maryland,6,Nissan Altima,2013,230,
+2015,Maryland,7,Toyota Corolla,2014,204,
+2015,Maryland,8,Jeep Cherokee/Grand Cherokee,2015,194,
+2015,Maryland,9,Chevrolet Pickup (Full Size),1999,192,
+2015,Maryland,10,Hyundai Sonata,2013,169,
+2015,Massachusetts,1,Honda Civic,2000,426,
+2015,Massachusetts,2,Honda Accord,1997,402,
+2015,Massachusetts,3,Toyota Camry,2014,260,
+2015,Massachusetts,4,Toyota Corolla,2010,203,
+2015,Massachusetts,5,Dodge Caravan,2005,188,
+2015,Massachusetts,6,Ford Pickup (Full Size),2004,178,
+2015,Massachusetts,7,Nissan Altima,2005,156,
+2015,Massachusetts,8,Jeep Cherokee/Grand Cherokee,1999,143,
+2015,Massachusetts,9,Honda CR-V,1999,107,
+2015,Massachusetts,10,Chevrolet Pickup (Full Size),2015,95,
+2015,Michigan,1,Chevrolet Impala,2008,733,
+2015,Michigan,2,Chevrolet Pickup (Full Size),1999,585,
+2015,Michigan,3,Ford Pickup (Full Size),2006,530,
+2015,Michigan,4,Dodge Caravan,2003,528,
+2015,Michigan,5,Dodge Charger,2015,477,
+2015,Michigan,6,Chevrolet Trailblazer,2007,462,
+2015,Michigan,7,Chevrolet Malibu,2013,451,
+2015,Michigan,8,Pontiac Grand Prix,2004,418,
+2015,Michigan,9,Jeep Cherokee/Grand Cherokee,2000,407,
+2015,Michigan,10,Ford Fusion,2014,355,
+2015,Minnesota,1,Honda Civic,1998,676,
+2015,Minnesota,2,Honda Accord,1997,524,
+2015,Minnesota,3,Chevrolet Pickup (Full Size),1999,329,
+2015,Minnesota,4,Ford Pickup (Full Size),2005,246,
+2015,Minnesota,5,Toyota Camry,1999,214,
+2015,Minnesota,6,Honda CR-V,1999,190,
+2015,Minnesota,7,Chevrolet Impala,2004,171,
+2015,Minnesota,8,Dodge Caravan,2003,143,
+2015,Minnesota,9,Toyota Corolla,2010,109,
+2015,Minnesota,10,Acura Integra,1996,95,
+2015,Mississippi,1,Chevrolet Pickup (Full Size),1994,286,
+2015,Mississippi,2,Ford Pickup (Full Size),2006,278,
+2015,Mississippi,3,Nissan Altima,2015,128,
+2015,Mississippi,4,Chevrolet Impala,2006,114,
+2015,Mississippi,5,GMC Pickup (Full Size),2000,103,
+2015,Mississippi,6,Toyota Camry,2014,94,
+2015,Mississippi,7,Honda Accord,2007,91,
+2015,Mississippi,8,Dodge Pickup (Full Size),2005,85,
+2015,Mississippi,9,Chevrolet Malibu,2015,73,
+2015,Mississippi,10,Chevrolet Tahoe,2005,68,
+2015,Missouri,1,Ford Pickup (Full Size),2004,880,
+2015,Missouri,2,Chevrolet Pickup (Full Size),2000,783,
+2015,Missouri,3,Dodge Caravan,2003,465,
+2015,Missouri,4,Dodge Pickup (Full Size),2001,410,
+2015,Missouri,5,Chevrolet Impala,2008,369,
+2015,Missouri,6,Jeep Cherokee/Grand Cherokee,1998,289,
+2015,Missouri,7,Honda Accord,1997,274,
+2015,Missouri,8,Ford Taurus,2002,250,
+2015,Missouri,9,Chevrolet Malibu,2015,243,
+2015,Missouri,10,Toyota Camry,2014,236,
+2015,Montana,1,Chevrolet Pickup (Full Size),1999,165,
+2015,Montana,2,Ford Pickup (Full Size),1995,145,
+2015,Montana,3,Dodge Pickup (Full Size),2006,78,
+2015,Montana,4,GMC Pickup (Full Size),2008,55,
+2015,Montana,5,Honda Accord,1994,52,
+2015,Montana,6,Chevrolet Impala,2001,31,
+2015,Montana,7,Ford Explorer,1996,27,
+2015,Montana,8,Chevrolet Pickup (Small Size),1995,24,
+2015,Montana,9,Toyota Camry,2015,23,
+2015,Montana,10,Ford Pickup (Small Size),2000,22,
+2015,Nebraska,1,Chevrolet Pickup (Full Size),1996,196,
+2015,Nebraska,2,Ford Pickup (Full Size),1999,168,
+2015,Nebraska,3,Honda Civic,1997,165,
+2015,Nebraska,4,Honda Accord,1996,157,
+2015,Nebraska,5,Dodge Pickup (Full Size),2001,102,
+2015,Nebraska,6,Jeep Cherokee/Grand Cherokee,1999,70,
+2015,Nebraska,7,Chevrolet Impala,2006,68,
+2015,Nebraska,8,GMC Pickup (Full Size),2015,61,
+2015,Nebraska,9,Toyota Camry,2000,49,
+2015,Nebraska,10,Chevrolet Pickup (Small Size),1998,43,
+2015,Nevada,1,Honda Accord,1996,"1,048",
+2015,Nevada,2,Honda Civic,1998,"1,011",
+2015,Nevada,3,Chevrolet Pickup (Full Size),2006,377,
+2015,Nevada,4,Ford Pickup (Full Size),2006,279,
+2015,Nevada,5,Toyota Camry,2015,254,
+2015,Nevada,6,Nissan Maxima,1997,208,
+2015,Nevada,7,Nissan Altima,1997,207,
+2015,Nevada,8,Nissan Sentra,2014,200,
+2015,Nevada,9,Toyota Corolla,2014,151,
+2015,Nevada,10,Dodge Pickup (Full Size),2005,148,
+2015,New Hampshire,1,Honda Civic,1997,34,
+2015,New Hampshire,2,Honda Accord,1996,20,
+2015,New Hampshire,3,Chevrolet Pickup (Full Size),2002,19,
+2015,New Hampshire,4,Ford Pickup (Full Size),2002,17,
+2015,New Hampshire,5,Dodge Caravan,2003,16,
+2015,New Hampshire,6,Ford Focus,2007,14,
+2015,New Hampshire,7,Toyota Camry,1999,13,
+2015,New Hampshire,8,Jeep Cherokee/Grand Cherokee,2000,11,
+2015,New Hampshire,9,GMC Pickup (Full Size),2007,9,
+2015,New Hampshire,9,Toyota Corolla,1999,9,
+2015,New Jersey,1,Honda Accord,1997,844,
+2015,New Jersey,2,Honda Civic,1998,753,
+2015,New Jersey,3,Dodge Caravan,2002,427,
+2015,New Jersey,4,Nissan Sentra,1998,340,
+2015,New Jersey,5,Ford Pickup (Full Size),2006,295,
+2015,New Jersey,6,Nissan Altima,2014,291,
+2015,New Jersey,7,Jeep Cherokee/Grand Cherokee,2000,286,
+2015,New Jersey,8,Toyota Camry,2014,232,
+2015,New Jersey,9,Nissan Maxima,1998,195,
+2015,New Jersey,10,Ford Econoline E350,2003,184,
+2015,New Mexico,1,Honda Civic,1998,572,
+2015,New Mexico,2,Ford Pickup (Full Size),2006,557,
+2015,New Mexico,3,Honda Accord,1994,545,
+2015,New Mexico,4,Chevrolet Pickup (Full Size),2006,483,
+2015,New Mexico,5,Dodge Pickup (Full Size),2003,269,
+2015,New Mexico,6,GMC Pickup (Full Size),2006,180,
+2015,New Mexico,7,Jeep Cherokee/Grand Cherokee,1994,149,
+2015,New Mexico,8,Toyota Camry,1999,128,
+2015,New Mexico,9,Chevrolet Pickup (Small Size),1998,101,
+2015,New Mexico,10,Chevrolet Impala,2005,90,
+2015,New York,1,Honda Accord,1997,724,
+2015,New York,2,Honda Civic,1998,707,
+2015,New York,3,Toyota Camry,2014,500,
+2015,New York,4,Nissan Altima,2015,374,
+2015,New York,5,Dodge Caravan,2000,368,
+2015,New York,6,Ford Econoline E350,2011,339,
+2015,New York,7,Nissan Maxima,1998,328,
+2015,New York,8,Honda CR-V,1997,283,
+2015,New York,9,Toyota Corolla,2010,280,
+2015,New York,10,Jeep Cherokee/Grand Cherokee,2015,263,
+2015,North Carolina,1,Honda Accord,1997,609,
+2015,North Carolina,2,Ford Pickup (Full Size),2004,424,
+2015,North Carolina,3,Chevrolet Pickup (Full Size),2003,370,
+2015,North Carolina,4,Honda Civic,2000,350,
+2015,North Carolina,5,Toyota Camry,2014,291,
+2015,North Carolina,6,Nissan Altima,2015,249,
+2015,North Carolina,7,Jeep Cherokee/Grand Cherokee,1999,203,
+2015,North Carolina,8,Chevrolet Impala,2006,194,
+2015,North Carolina,9,Toyota Corolla,2014,190,
+2015,North Carolina,10,Ford Explorer,2003,185,
+2015,North Dakota,1,Chevrolet Pickup (Full Size),2002,127,
+2015,North Dakota,2,Ford Pickup (Full Size),1997,101,
+2015,North Dakota,3,Dodge Pickup (Full Size),1998,49,
+2015,North Dakota,4,GMC Pickup (Full Size),2006,37,
+2015,North Dakota,5,Chevrolet Impala,2015,27,
+2015,North Dakota,6,Honda Accord,1990,23,
+2015,North Dakota,7,Jeep Cherokee/Grand Cherokee,1999,21,
+2015,North Dakota,8,Chevrolet Pickup (Small Size),1999,18,
+2015,North Dakota,9,Pontiac Grand Am,2000,17,
+2015,North Dakota,10,Ford Taurus,1998,16,
+2015,Ohio,1,Dodge Caravan,2003,679,
+2015,Ohio,2,Chevrolet Pickup (Full Size),1999,579,
+2015,Ohio,3,Ford Pickup (Full Size),2004,540,
+2015,Ohio,4,Jeep Cherokee/Grand Cherokee,2000,467,
+2015,Ohio,5,Chevrolet Impala,2007,441,
+2015,Ohio,6,Honda Accord,1997,437,
+2015,Ohio,7,Chevrolet Malibu,2015,343,
+2015,Ohio,8,Honda Civic,2000,325,
+2015,Ohio,9,Toyota Camry,2014,308,
+2015,Ohio,10,Dodge Pickup (Full Size),2005,297,
+2015,Oklahoma,1,Chevrolet Pickup (Full Size),1994,"1,143",
+2015,Oklahoma,2,Ford Pickup (Full Size),2004,780,
+2015,Oklahoma,3,Dodge Pickup (Full Size),2001,419,
+2015,Oklahoma,4,GMC Pickup (Full Size),1994,304,
+2015,Oklahoma,5,Honda Civic,1998,292,
+2015,Oklahoma,6,Honda Accord,1996,269,
+2015,Oklahoma,7,Chevrolet Impala,2005,181,
+2015,Oklahoma,8,Chevrolet Pickup (Small Size),1998,127,
+2015,Oklahoma,9,Ford Explorer,2002,123,
+2015,Oklahoma,10,Chevrolet Malibu,2009,119,
+2015,Oregon,1,Honda Accord,1994,"1,491",
+2015,Oregon,2,Honda Civic,1998,"1,276",
+2015,Oregon,3,Subaru Legacy,1998,377,
+2015,Oregon,4,Ford Pickup (Full Size),2004,295,
+2015,Oregon,5,Toyota Camry,1990,221,
+2015,Oregon,6,Chevrolet Pickup (Full Size),1999,217,
+2015,Oregon,7,Acura Integra,1994,209,
+2015,Oregon,8,Subaru Impreza,1999,171,
+2015,Oregon,9,Honda CR-V,1999,158,
+2015,Oregon,10,Jeep Cherokee/Grand Cherokee,1994,141,
+2015,Pennsylvania,1,Honda Accord,1997,544,
+2015,Pennsylvania,2,Honda Civic,1998,539,
+2015,Pennsylvania,3,Ford Pickup (Full Size),2006,303,
+2015,Pennsylvania,4,Toyota Camry,2014,269,
+2015,Pennsylvania,5,Nissan Altima,2015,261,
+2015,Pennsylvania,6,Chevrolet Impala,2006,224,
+2015,Pennsylvania,7,Toyota Corolla,2014,210,
+2015,Pennsylvania,8,Chevrolet Pickup (Full Size),2003,203,
+2015,Pennsylvania,9,Jeep Cherokee/Grand Cherokee,1999,188,
+2015,Pennsylvania,10,Chevrolet Malibu,2015,159,
+2015,Rhode Island,1,Honda Accord,1997,101,
+2015,Rhode Island,2,Honda Civic,1998,95,
+2015,Rhode Island,3,Toyota Camry,2014,69,
+2015,Rhode Island,4,Nissan Maxima,2000,45,
+2015,Rhode Island,5,Toyota Corolla,2014,40,
+2015,Rhode Island,6,Nissan Altima,2013,38,
+2015,Rhode Island,7,Ford Pickup (Full Size),2003,36,
+2015,Rhode Island,8,Jeep Cherokee/Grand Cherokee,1999,32,
+2015,Rhode Island,9,Honda CR-V,1999,27,
+2015,Rhode Island,10,Toyota Avalon,2000,18,
+2015,South Carolina,1,Ford Pickup (Full Size),2006,586,
+2015,South Carolina,2,Honda Accord,1996,458,
+2015,South Carolina,3,Chevrolet Pickup (Full Size),2004,455,
+2015,South Carolina,4,Ford Crown Victoria,2003,210,
+2015,South Carolina,5,Toyota Camry,2014,183,
+2015,South Carolina,6,Honda Civic,2000,176,
+2015,South Carolina,7,Dodge Pickup (Full Size),2001,172,
+2015,South Carolina,8,Chevrolet Impala,2008,166,
+2015,South Carolina,9,Nissan Altima,2015,155,
+2015,South Carolina,10,Ford Explorer,2002,146,
+2015,South Dakota,1,Chevrolet Pickup (Full Size),1994,52,
+2015,South Dakota,2,Ford Pickup (Full Size),2001,47,
+2015,South Dakota,3,Chevrolet Impala,2004,24,
+2015,South Dakota,4,Dodge Pickup (Full Size),2001,23,
+2015,South Dakota,4,Honda Civic,1996,23,
+2015,South Dakota,5,GMC Pickup (Full Size),1994,22,
+2015,South Dakota,6,Chevrolet Malibu,2003,20,
+2015,South Dakota,7,Chevrolet Pickup (Small Size),1997,17,
+2015,South Dakota,7,Ford Taurus,2006,17,
+2015,South Dakota,7,Jeep Cherokee/Grand Cherokee,1999,17,
+2015,Tennessee,1,Chevrolet Pickup (Full Size),1997,693,
+2015,Tennessee,2,Ford Pickup (Full Size),2004,468,
+2015,Tennessee,3,Honda Accord,1996,267,
+2015,Tennessee,4,Nissan Altima,2005,215,
+2015,Tennessee,5,Chevrolet Impala,2007,213,
+2015,Tennessee,6,GMC Pickup (Full Size),1996,201,
+2015,Tennessee,7,Honda Civic,2000,198,
+2015,Tennessee,8,Nissan Maxima,1997,188,
+2015,Tennessee,8,Toyota Camry,2007,188,
+2015,Tennessee,9,Jeep Cherokee/Grand Cherokee,2000,178,
+2015,Texas,1,Ford Pickup (Full Size),2006,"7,897",
+2015,Texas,2,Chevrolet Pickup (Full Size),2004,"6,158",
+2015,Texas,3,Dodge Pickup (Full Size),2004,"2,898",
+2015,Texas,4,Honda Accord,1997,"1,626",
+2015,Texas,5,GMC Pickup (Full Size),2015,"1,450",
+2015,Texas,6,Honda Civic,2000,"1,371",
+2015,Texas,7,Chevrolet Tahoe,2004,"1,148",
+2015,Texas,8,Toyota Camry,2014,"1,030",
+2015,Texas,9,Nissan Altima,2012,957,
+2015,Texas,10,Chevrolet Impala,2007,898,
+2015,Utah,1,Honda Accord,1997,938,
+2015,Utah,2,Honda Civic,1998,915,
+2015,Utah,3,Subaru Legacy,1996,262,
+2015,Utah,4,Ford Pickup (Full Size),2006,238,
+2015,Utah,5,Chevrolet Pickup (Full Size),2004,225,
+2015,Utah,6,Dodge Pickup (Full Size),2012,117,
+2015,Utah,7,Subaru Impreza,1997,106,
+2015,Utah,8,Acura Integra,1995,103,
+2015,Utah,9,Jeep Cherokee/Grand Cherokee,1996,102,
+2015,Utah,10,Nissan Altima,1997,97,
+2015,Vermont,1,Chevrolet Pickup (Full Size),2001,15,
+2015,Vermont,2,Ford Pickup (Full Size),2010,8,
+2015,Vermont,2,Honda Accord,2002,8,
+2015,Vermont,3,Hyundai Elantra,2015,7,
+2015,Vermont,4,Honda Civic,2005,6,
+2015,Vermont,4,Subaru Legacy,1999,6,
+2015,Vermont,5,Ford Pickup (Small Size),2002,5,
+2015,Vermont,5,GMC Pickup (Full Size),2007,5,
+2015,Vermont,5,Nissan Sentra,2012,5,
+2015,Vermont,5,Subaru Impreza,2002,5,
+2015,Virginia,1,Honda Accord,2002,266,
+2015,Virginia,2,Ford Pickup (Full Size),2004,205,
+2015,Virginia,3,Honda Civic,2013,200,
+2015,Virginia,4,Toyota Camry,2014,181,
+2015,Virginia,5,Nissan Altima,2015,162,
+2015,Virginia,6,Chevrolet Pickup (Full Size),2003,144,
+2015,Virginia,7,Toyota Corolla,2013,140,
+2015,Virginia,8,Ford Explorer,2002,119,
+2015,Virginia,9,Jeep Cherokee/Grand Cherokee,2001,107,
+2015,Virginia,10,Chevrolet Impala,2006,105,
+2015,Washington,1,Honda Accord,1996,"3,757",
+2015,Washington,2,Honda Civic,1998,"3,113",
+2015,Washington,3,Ford Pickup (Full Size),2004,745,
+2015,Washington,4,Acura Integra,1994,640,
+2015,Washington,5,Toyota Camry,1989,602,
+2015,Washington,6,Subaru Legacy,1996,599,
+2015,Washington,7,Chevrolet Pickup (Full Size),1999,562,
+2015,Washington,8,Jeep Cherokee/Grand Cherokee,1994,362,
+2015,Washington,9,Toyota Corolla,2010,332,
+2015,Washington,10,Nissan Sentra,1997,296,
+2015,West Virginia,1,Ford Pickup (Full Size),2003,87,
+2015,West Virginia,2,Chevrolet Pickup (Full Size),2000,76,
+2015,West Virginia,3,Jeep Cherokee/Grand Cherokee,1996,36,
+2015,West Virginia,4,Dodge Pickup (Full Size),2003,29,
+2015,West Virginia,4,Chevrolet Pickup (Small Size),1999,29,
+2015,West Virginia,5,Chevrolet Impala,2006,24,
+2015,West Virginia,6,Toyota Camry,2014,20,
+2015,West Virginia,7,Ford Taurus,1995,19,
+2015,West Virginia,8,GMC Pickup (Full Size),2011,18,
+2015,West Virginia,9,Chevrolet Cavalier,2002,17,
+2015,Wisconsin,1,Dodge Caravan,2002,"1,035",
+2015,Wisconsin,2,Honda Civic,1998,470,
+2015,Wisconsin,3,Honda Accord,1997,450,
+2015,Wisconsin,4,Chrysler Town & Country,2002,313,
+2015,Wisconsin,5,Chevrolet Impala,2007,232,
+2015,Wisconsin,6,Dodge Stratus,2002,209,
+2015,Wisconsin,7,Toyota Camry,2007,191,
+2015,Wisconsin,8,Chevrolet Malibu,2015,179,
+2015,Wisconsin,8,Dodge Intrepid,2002,179,
+2015,Wisconsin,9,Honda CR-V,2000,172,
+2015,Wyoming,1,Chevrolet Pickup (Full Size),2007,32,
+2015,Wyoming,2,Ford Pickup (Full Size),2000,29,
+2015,Wyoming,3,Dodge Pickup (Full Size),2004,13,
+2015,Wyoming,4,GMC Pickup (Full Size),2007,10,
+2015,Wyoming,4,Jeep Cherokee/Grand Cherokee,2000,10,
+2015,Wyoming,5,Dodge Durango,2002,9,
+2015,Wyoming,5,Toyota Camry,1997,9,
+2015,Wyoming,6,GMC Yukon,2002,8,
+2015,Wyoming,6,Honda Accord,1997,8,
+2015,Wyoming,7,Chevrolet Cavalier,2003,6,
+2016,Alabama,1,Chevrolet Pickup (Full Size),2005,483,499
+2016,Alabama,2,Ford Pickup (Full Size),2006,341,357
+2016,Alabama,3,Toyota Camry,2014,189,205
+2016,Alabama,4,Nissan Altima,2014,175,191
+2016,Alabama,4,Chevrolet Impala,2004,175,191
+2016,Alabama,5,Honda Accord,1998,164,180
+2016,Alabama,6,GMC Pickup (Full Size),1999,136,152
+2016,Alabama,7,Dodge Pickup (Full Size),1998,122,138
+2016,Alabama,8,Ford Mustang,2002,106,122
+2016,Alabama,9,Ford Explorer,2002,103,119
+2016,Alaska,1,Chevrolet Pickup (Full Size),2003,131,147
+2016,Alaska,2,Ford Pickup (Full Size),2004,79,95
+2016,Alaska,3,GMC Pickup (Full Size),1997,42,58
+2016,Alaska,4,Honda Civic,2000,40,56
+2016,Alaska,5,Honda Accord,1993,30,46
+2016,Alaska,6,Dodge Pickup (Full Size),1998,28,44
+2016,Alaska,7,Ford Explorer,1994,15,31
+2016,Alaska,8,Jeep Cherokee/Grand Cherokee,1999,12,28
+2016,Alaska,9,Ford Pickup (Small Size),2000,6,22
+2016,Alaska,10,Chevrolet Pickup (Small Size),1998,4,20
+2016,Arizona,1,Honda Accord,1997,1056,"1,072"
+2016,Arizona,2,Honda Civic,1998,1000,"1,016"
+2016,Arizona,3,Chevrolet Pickup (Full Size),2004,834,850
+2016,Arizona,4,Ford Pickup (Full Size),2006,756,772
+2016,Arizona,5,Dodge Pickup (Full Size),2001,412,428
+2016,Arizona,6,Nissan Altima,2015,253,269
+2016,Arizona,7,GMC Pickup (Full Size),2015,230,246
+2016,Arizona,8,Toyota Camry,1999,194,210
+2016,Arizona,9,Jeep Cherokee/Grand Cherokee,1994,191,207
+2016,Arizona,10,Nissan Sentra,2014,184,200
+2016,Arkansas,1,Chevrolet Pickup (Full Size),2004,386,402
+2016,Arkansas,2,Ford Pickup (Full Size),2008,236,252
+2016,Arkansas,3,GMC Pickup (Full Size),1997,158,174
+2016,Arkansas,4,Dodge Pickup (Full Size),1999,111,127
+2016,Arkansas,5,Honda Accord,1997,106,122
+2016,Arkansas,6,Nissan Altima,2015,73,89
+2016,Arkansas,7,Toyota Camry,2013,66,82
+2016,Arkansas,8,Chevrolet Impala,2012,60,76
+2016,Arkansas,9,Chevrolet Malibu,2006,56,72
+2016,Arkansas,10,Chevrolet Tahoe,2003,52,68
+2016,California,1,Honda Accord,1996,28329,"28,345"
+2016,California,2,Honda Civic,1998,28029,"28,045"
+2016,California,3,Chevrolet Pickup (Full Size),2006,6032,"6,048"
+2016,California,4,Toyota Camry,1991,5329,"5,345"
+2016,California,5,Ford Pickup (Full Size),2006,4488,"4,504"
+2016,California,6,Acura Integra,1994,4257,"4,273"
+2016,California,7,Toyota Corolla,2014,3323,"3,339"
+2016,California,8,Nissan Sentra,1997,2539,"2,555"
+2016,California,9,Nissan Altima,1997,2265,"2,281"
+2016,California,10,Honda CR-V,1999,2017,"2,033"
+2016,Colorado,1,Honda Civic,1997,1364,"1,380"
+2016,Colorado,2,Honda Accord,1997,1151,"1,167"
+2016,Colorado,3,Ford Pickup (Full Size),2005,579,595
+2016,Colorado,4,Jeep Cherokee/Grand Cherokee,1999,578,594
+2016,Colorado,5,Chevrolet Pickup (Full Size),2000,434,450
+2016,Colorado,6,Dodge Pickup (Full Size),2001,292,308
+2016,Colorado,7,Subaru Legacy,1996,199,215
+2016,Colorado,8,Acura Integra,1994,192,208
+2016,Colorado,9,Toyota Camry,1989,187,203
+2016,Colorado,10,Toyota Corolla,2014,154,170
+2016,Connecticut,1,Honda Accord,1997,518,534
+2016,Connecticut,2,Honda Civic,1998,516,532
+2016,Connecticut,3,Nissan Maxima,1998,168,184
+2016,Connecticut,4,Nissan Altima,1997,127,143
+2016,Connecticut,5,Toyota Camry,2014,115,131
+2016,Connecticut,6,Jeep Cherokee/Grand Cherokee,2000,94,110
+2016,Connecticut,7,Toyota Corolla,1999,83,99
+2016,Connecticut,8,Honda CR-V,1998,76,92
+2016,Connecticut,9,Dodge Caravan,2000,63,79
+2016,Connecticut,10,Acura TL,2003,60,76
+2016,Delaware,1,Honda Civic,2000,37,53
+2016,Delaware,2,Honda Accord,2004,27,43
+2016,Delaware,3,Chevrolet Pickup (Full Size),2005,20,36
+2016,Delaware,4,Ford Pickup (Full Size),1999,15,31
+2016,Delaware,5,Chevrolet Impala,2007,12,28
+2016,Delaware,6,Nissan Altima,2006,7,23
+2016,Delaware,6,Honda CR-V,2001,7,23
+2016,Delaware,7,Ford Taurus,2002,6,22
+2016,Delaware,8,Toyota Corolla,2010,5,21
+2016,Delaware,9,Toyota Camry,2012,4,20
+2016,District Of Columbia,1,Dodge Caravan,2002,151,167
+2016,District Of Columbia,2,Honda Accord,1997,116,132
+2016,District Of Columbia,3,Jeep Cherokee/Grand Cherokee,2001,93,109
+2016,District Of Columbia,4,Toyota Camry,2014,79,95
+2016,District Of Columbia,5,Toyota Corolla,2010,54,70
+2016,District Of Columbia,6,Nissan Altima,2015,46,62
+2016,District Of Columbia,7,Ford Pickup (Full Size),1997,33,49
+2016,District Of Columbia,8,Chevrolet Pickup (Full Size),1999,25,41
+2016,District Of Columbia,9,Chevrolet Impala,2013,24,40
+2016,District Of Columbia,9,Chrysler 300/300M,2005,24,40
+2016,Florida,1,Ford Pickup (Full Size),2006,2054,"2,070"
+2016,Florida,2,Honda Civic,2000,1111,"1,127"
+2016,Florida,3,Nissan Altima,2015,1082,"1,098"
+2016,Florida,4,Toyota Camry,2014,1073,"1,089"
+2016,Florida,5,Honda Accord,1997,1009,"1,025"
+2016,Florida,6,Toyota Corolla,2014,898,914
+2016,Florida,7,Chevrolet Pickup (Full Size),2015,770,786
+2016,Florida,8,Chevrolet Impala,2015,526,542
+2016,Florida,9,Dodge Pickup (Full Size),2005,518,534
+2016,Florida,10,Nissan Maxima,2014,463,479
+2016,Georgia,1,Honda Accord,1997,1036,"1,052"
+2016,Georgia,2,Ford Pickup (Full Size),2006,938,954
+2016,Georgia,3,Chevrolet Pickup (Full Size),1999,932,948
+2016,Georgia,4,Honda Civic,2000,637,653
+2016,Georgia,5,Toyota Camry,2014,552,568
+2016,Georgia,6,Chevrolet Impala,2008,496,512
+2016,Georgia,7,Nissan Altima,2014,468,484
+2016,Georgia,8,Dodge Pickup (Full Size),2003,436,452
+2016,Georgia,9,Jeep Cherokee/Grand Cherokee,2001,433,449
+2016,Georgia,10,Dodge Caravan,2002,409,425
+2016,Hawaii,1,Honda Civic,2000,234,250
+2016,Hawaii,2,Honda Accord,1994,164,180
+2016,Hawaii,3,Ford Pickup (Full Size),2006,138,154
+2016,Hawaii,4,Toyota Tacoma,2003,70,86
+2016,Hawaii,5,Toyota Corolla,2004,48,64
+2016,Hawaii,6,Toyota Camry,2000,39,55
+2016,Hawaii,7,Toyota 4Runner,1997,29,45
+2016,Hawaii,8,Nissan Frontier,2004,28,44
+2016,Hawaii,9,Nissan Altima,2004,26,42
+2016,Hawaii,10,Dodge Pickup (Full Size),2001,21,37
+2016,Idaho,1,Ford Pickup (Full Size),2004,92,108
+2016,Idaho,2,Chevrolet Pickup (Full Size),1999,60,76
+2016,Idaho,3,Honda Accord,1996,50,66
+2016,Idaho,4,Honda Civic,1996,36,52
+2016,Idaho,5,Dodge Pickup (Full Size),2001,29,45
+2016,Idaho,6,GMC Pickup (Full Size),1992,16,32
+2016,Idaho,7,Ford Explorer,2002,6,22
+2016,Idaho,8,Ford Pickup (Small Size),1991,3,19
+2016,Idaho,8,Toyota Camry,1997,3,19
+2016,Idaho,8,Jeep Cherokee/Grand Cherokee,1997,3,19
+2016,Illinois,1,Dodge Caravan,2000,1038,"1,054"
+2016,Illinois,2,Chevrolet Impala,2008,563,579
+2016,Illinois,3,Honda Civic,2000,550,566
+2016,Illinois,4,Honda Accord,1997,465,481
+2016,Illinois,5,Chevrolet Malibu,2011,426,442
+2016,Illinois,6,Chevrolet Pickup (Full Size),1999,402,418
+2016,Illinois,7,Ford Pickup (Full Size),2006,376,392
+2016,Illinois,8,Toyota Camry,2014,367,383
+2016,Illinois,9,Jeep Cherokee/Grand Cherokee,2000,358,374
+2016,Illinois,10,Nissan Altima,2014,310,326
+2016,Indiana,1,Ford Pickup (Full Size),2005,643,659
+2016,Indiana,2,Chevrolet Pickup (Full Size),1994,603,619
+2016,Indiana,3,Chevrolet Impala,2004,407,423
+2016,Indiana,4,Dodge Pickup (Full Size),2001,247,263
+2016,Indiana,5,Chevrolet Malibu,2005,222,238
+2016,Indiana,6,GMC Pickup (Full Size),1995,176,192
+2016,Indiana,7,Honda Accord,1994,170,186
+2016,Indiana,7,Chevrolet Pickup (Small Size),1998,170,186
+2016,Indiana,8,Pontiac Grand Prix,2004,167,183
+2016,Indiana,9,Ford Taurus,2003,166,182
+2016,Iowa,1,Chevrolet Pickup (Full Size),2002,242,258
+2016,Iowa,2,Ford Pickup (Full Size),2001,182,198
+2016,Iowa,3,Chevrolet Impala,2005,85,101
+2016,Iowa,4,Dodge Pickup (Full Size),2004,77,93
+2016,Iowa,5,Ford Taurus,2003,61,77
+2016,Iowa,6,Jeep Cherokee/Grand Cherokee,2005,49,65
+2016,Iowa,7,GMC Pickup (Full Size),2007,44,60
+2016,Iowa,8,Toyota Camry,1997,43,59
+2016,Iowa,9,Dodge Caravan,2005,40,56
+2016,Iowa,9,Pontiac Grand Prix,1999,40,56
+2016,Kansas,1,Chevrolet Pickup (Full Size),1999,423,439
+2016,Kansas,2,Ford Pickup (Full Size),2003,399,415
+2016,Kansas,3,Honda Accord,1996,303,319
+2016,Kansas,4,Honda Civic,2000,204,220
+2016,Kansas,5,Dodge Pickup (Full Size),2001,144,160
+2016,Kansas,6,GMC Pickup (Full Size),1999,97,113
+2016,Kansas,7,Chevrolet Impala,2004,82,98
+2016,Kansas,8,Dodge Caravan,2002,73,89
+2016,Kansas,8,Jeep Cherokee/Grand Cherokee,2000,73,89
+2016,Kansas,9,Chevrolet Pickup (Small Size),1998,72,88
+2016,Kentucky,1,Chevrolet Pickup (Full Size),1998,234,250
+2016,Kentucky,2,Ford Pickup (Full Size),2001,225,241
+2016,Kentucky,3,Toyota Camry,1999,162,178
+2016,Kentucky,4,Chevrolet Impala,2005,102,118
+2016,Kentucky,5,Toyota Corolla,2014,94,110
+2016,Kentucky,6,Honda Accord,1997,92,108
+2016,Kentucky,7,Ford Explorer,2000,83,99
+2016,Kentucky,8,Ford Taurus,2002,78,94
+2016,Kentucky,9,Dodge Pickup (Full Size),2001,77,93
+2016,Kentucky,10,Chevrolet Pickup (Small Size),2000,63,79
+2016,Louisiana,1,Chevrolet Pickup (Full Size),2006,655,671
+2016,Louisiana,2,Ford Pickup (Full Size),2006,568,584
+2016,Louisiana,3,GMC Pickup (Full Size),2006,237,253
+2016,Louisiana,4,Toyota Camry,2007,208,224
+2016,Louisiana,5,Dodge Pickup (Full Size),2003,206,222
+2016,Louisiana,6,Nissan Altima,2014,199,215
+2016,Louisiana,7,Honda Accord,2008,193,209
+2016,Louisiana,8,Chevrolet Impala,2008,161,177
+2016,Louisiana,9,GMC Yukon,2003,109,125
+2016,Louisiana,10,Chevrolet Tahoe,2007,98,114
+2016,Maine,1,Chevrolet Pickup (Full Size),2001,13,29
+2016,Maine,2,GMC Pickup (Full Size),1993,10,26
+2016,Maine,3,Jeep Cherokee/Grand Cherokee,2004,2,18
+2016,Maine,4,Ford Pickup (Full Size),2004,,15
+2016,Maine,5,Toyota Corolla,2009,2,13
+2016,Maine,5,Toyota Camry,1996,2,13
+2016,Maine,6,Honda Civic,2009,2,11
+2016,Maine,7,Chevrolet Impala,2000,2,8
+2016,Maine,7,Ford Focus,2001,2,8
+2016,Maine,8,Chevrolet Cobalt,2005,2,7
+2016,Maryland,1,Dodge Caravan,2003,711,727
+2016,Maryland,2,Honda Accord,2008,659,675
+2016,Maryland,3,Toyota Camry,2014,331,347
+2016,Maryland,4,Honda Civic,2012,297,313
+2016,Maryland,5,Ford Pickup (Full Size),2004,271,287
+2016,Maryland,6,Nissan Altima,2013,214,230
+2016,Maryland,7,Toyota Corolla,2014,188,204
+2016,Maryland,8,Jeep Cherokee/Grand Cherokee,2015,178,194
+2016,Maryland,9,Chevrolet Pickup (Full Size),1999,176,192
+2016,Maryland,10,Hyundai Sonata,2013,153,169
+2016,Massachusetts,1,Honda Civic,2000,410,426
+2016,Massachusetts,2,Honda Accord,1997,386,402
+2016,Massachusetts,3,Toyota Camry,2014,244,260
+2016,Massachusetts,4,Toyota Corolla,2010,187,203
+2016,Massachusetts,5,Dodge Caravan,2005,172,188
+2016,Massachusetts,6,Ford Pickup (Full Size),2004,162,178
+2016,Massachusetts,7,Nissan Altima,2005,140,156
+2016,Massachusetts,8,Jeep Cherokee/Grand Cherokee,1999,127,143
+2016,Massachusetts,9,Honda CR-V,1999,91,107
+2016,Massachusetts,10,Chevrolet Pickup (Full Size),2015,79,95
+2016,Michigan,1,Chevrolet Impala,2008,717,733
+2016,Michigan,2,Chevrolet Pickup (Full Size),1999,569,585
+2016,Michigan,3,Ford Pickup (Full Size),2006,514,530
+2016,Michigan,4,Dodge Caravan,2003,512,528
+2016,Michigan,5,Dodge Charger,2015,461,477
+2016,Michigan,6,Chevrolet Trailblazer,2007,446,462
+2016,Michigan,7,Chevrolet Malibu,2013,435,451
+2016,Michigan,8,Pontiac Grand Prix,2004,402,418
+2016,Michigan,9,Jeep Cherokee/Grand Cherokee,2000,391,407
+2016,Michigan,10,Ford Fusion,2014,339,355
+2016,Minnesota,1,Honda Civic,1998,660,676
+2016,Minnesota,2,Honda Accord,1997,508,524
+2016,Minnesota,3,Chevrolet Pickup (Full Size),1999,313,329
+2016,Minnesota,4,Ford Pickup (Full Size),2005,230,246
+2016,Minnesota,5,Toyota Camry,1999,198,214
+2016,Minnesota,6,Honda CR-V,1999,174,190
+2016,Minnesota,7,Chevrolet Impala,2004,155,171
+2016,Minnesota,8,Dodge Caravan,2003,127,143
+2016,Minnesota,9,Toyota Corolla,2010,93,109
+2016,Minnesota,10,Acura Integra,1996,79,95
+2016,Mississippi,1,Chevrolet Pickup (Full Size),1994,270,286
+2016,Mississippi,2,Ford Pickup (Full Size),2006,262,278
+2016,Mississippi,3,Nissan Altima,2015,112,128
+2016,Mississippi,4,Chevrolet Impala,2006,98,114
+2016,Mississippi,5,GMC Pickup (Full Size),2000,87,103
+2016,Mississippi,6,Toyota Camry,2014,78,94
+2016,Mississippi,7,Honda Accord,2007,75,91
+2016,Mississippi,8,Dodge Pickup (Full Size),2005,69,85
+2016,Mississippi,9,Chevrolet Malibu,2015,57,73
+2016,Mississippi,10,Chevrolet Tahoe,2005,52,68
+2016,Missouri,1,Ford Pickup (Full Size),2004,864,880
+2016,Missouri,2,Chevrolet Pickup (Full Size),2000,767,783
+2016,Missouri,3,Dodge Caravan,2003,449,465
+2016,Missouri,4,Dodge Pickup (Full Size),2001,394,410
+2016,Missouri,5,Chevrolet Impala,2008,353,369
+2016,Missouri,6,Jeep Cherokee/Grand Cherokee,1998,273,289
+2016,Missouri,7,Honda Accord,1997,258,274
+2016,Missouri,8,Ford Taurus,2002,234,250
+2016,Missouri,9,Chevrolet Malibu,2015,227,243
+2016,Missouri,10,Toyota Camry,2014,220,236
+2016,Montana,1,Chevrolet Pickup (Full Size),1999,149,165
+2016,Montana,2,Ford Pickup (Full Size),1995,129,145
+2016,Montana,3,Dodge Pickup (Full Size),2006,62,78
+2016,Montana,4,GMC Pickup (Full Size),2008,39,55
+2016,Montana,5,Honda Accord,1994,36,52
+2016,Montana,6,Chevrolet Impala,2001,15,31
+2016,Montana,7,Ford Explorer,1996,11,27
+2016,Montana,8,Chevrolet Pickup (Small Size),1995,8,24
+2016,Montana,9,Toyota Camry,2015,7,23
+2016,Montana,10,Ford Pickup (Small Size),2000,6,22
+2016,Nebraska,1,Chevrolet Pickup (Full Size),1996,180,196
+2016,Nebraska,2,Ford Pickup (Full Size),1999,152,168
+2016,Nebraska,3,Honda Civic,1997,149,165
+2016,Nebraska,4,Honda Accord,1996,141,157
+2016,Nebraska,5,Dodge Pickup (Full Size),2001,86,102
+2016,Nebraska,6,Jeep Cherokee/Grand Cherokee,1999,54,70
+2016,Nebraska,7,Chevrolet Impala,2006,52,68
+2016,Nebraska,8,GMC Pickup (Full Size),2015,45,61
+2016,Nebraska,9,Toyota Camry,2000,33,49
+2016,Nebraska,10,Chevrolet Pickup (Small Size),1998,27,43
+2016,Nevada,1,Honda Accord,1996,1032,"1,048"
+2016,Nevada,2,Honda Civic,1998,995,"1,011"
+2016,Nevada,3,Chevrolet Pickup (Full Size),2006,361,377
+2016,Nevada,4,Ford Pickup (Full Size),2006,263,279
+2016,Nevada,5,Toyota Camry,2015,238,254
+2016,Nevada,6,Nissan Maxima,1997,192,208
+2016,Nevada,7,Nissan Altima,1997,191,207
+2016,Nevada,8,Nissan Sentra,2014,184,200
+2016,Nevada,9,Toyota Corolla,2014,135,151
+2016,Nevada,10,Dodge Pickup (Full Size),2005,132,148
+2016,New Hampshire,1,Honda Civic,1997,18,34
+2016,New Hampshire,2,Honda Accord,1996,4,20
+2016,New Hampshire,3,Chevrolet Pickup (Full Size),2002,3,19
+2016,New Hampshire,4,Ford Pickup (Full Size),2002,1,17
+2016,New Hampshire,5,Dodge Caravan,2003,,16
+2016,New Hampshire,6,Ford Focus,2007,2,14
+2016,New Hampshire,7,Toyota Camry,1999,2,13
+2016,New Hampshire,8,Jeep Cherokee/Grand Cherokee,2000,2,11
+2016,New Hampshire,9,GMC Pickup (Full Size),2007,2,9
+2016,New Hampshire,9,Toyota Corolla,1999,2,9
+2016,New Jersey,1,Honda Accord,1997,828,844
+2016,New Jersey,2,Honda Civic,1998,737,753
+2016,New Jersey,3,Dodge Caravan,2002,411,427
+2016,New Jersey,4,Nissan Sentra,1998,324,340
+2016,New Jersey,5,Ford Pickup (Full Size),2006,279,295
+2016,New Jersey,6,Nissan Altima,2014,275,291
+2016,New Jersey,7,Jeep Cherokee/Grand Cherokee,2000,270,286
+2016,New Jersey,8,Toyota Camry,2014,216,232
+2016,New Jersey,9,Nissan Maxima,1998,179,195
+2016,New Jersey,10,Ford Econoline E350,2003,168,184
+2016,New Mexico,1,Honda Civic,1998,556,572
+2016,New Mexico,2,Ford Pickup (Full Size),2006,541,557
+2016,New Mexico,3,Honda Accord,1994,529,545
+2016,New Mexico,4,Chevrolet Pickup (Full Size),2006,467,483
+2016,New Mexico,5,Dodge Pickup (Full Size),2003,253,269
+2016,New Mexico,6,GMC Pickup (Full Size),2006,164,180
+2016,New Mexico,7,Jeep Cherokee/Grand Cherokee,1994,133,149
+2016,New Mexico,8,Toyota Camry,1999,112,128
+2016,New Mexico,9,Chevrolet Pickup (Small Size),1998,85,101
+2016,New Mexico,10,Chevrolet Impala,2005,74,90
+2016,New York,1,Honda Accord,1997,708,724
+2016,New York,2,Honda Civic,1998,691,707
+2016,New York,3,Toyota Camry,2014,484,500
+2016,New York,4,Nissan Altima,2015,358,374
+2016,New York,5,Dodge Caravan,2000,352,368
+2016,New York,6,Ford Econoline E350,2011,323,339
+2016,New York,7,Nissan Maxima,1998,312,328
+2016,New York,8,Honda CR-V,1997,267,283
+2016,New York,9,Toyota Corolla,2010,264,280
+2016,New York,10,Jeep Cherokee/Grand Cherokee,2015,247,263
+2016,North Carolina,1,Honda Accord,1997,593,609
+2016,North Carolina,2,Ford Pickup (Full Size),2004,408,424
+2016,North Carolina,3,Chevrolet Pickup (Full Size),2003,354,370
+2016,North Carolina,4,Honda Civic,2000,334,350
+2016,North Carolina,5,Toyota Camry,2014,275,291
+2016,North Carolina,6,Nissan Altima,2015,233,249
+2016,North Carolina,7,Jeep Cherokee/Grand Cherokee,1999,187,203
+2016,North Carolina,8,Chevrolet Impala,2006,178,194
+2016,North Carolina,9,Toyota Corolla,2014,174,190
+2016,North Carolina,10,Ford Explorer,2003,169,185
+2016,North Dakota,1,Chevrolet Pickup (Full Size),2002,111,127
+2016,North Dakota,2,Ford Pickup (Full Size),1997,85,101
+2016,North Dakota,3,Dodge Pickup (Full Size),1998,33,49
+2016,North Dakota,4,GMC Pickup (Full Size),2006,21,37
+2016,North Dakota,5,Chevrolet Impala,2015,11,27
+2016,North Dakota,6,Honda Accord,1990,7,23
+2016,North Dakota,7,Jeep Cherokee/Grand Cherokee,1999,5,21
+2016,North Dakota,8,Chevrolet Pickup (Small Size),1999,2,18
+2016,North Dakota,9,Pontiac Grand Am,2000,1,17
+2016,North Dakota,10,Ford Taurus,1998,0,16
+2016,Ohio,1,Dodge Caravan,2003,663,679
+2016,Ohio,2,Chevrolet Pickup (Full Size),1999,563,579
+2016,Ohio,3,Ford Pickup (Full Size),2004,524,540
+2016,Ohio,4,Jeep Cherokee/Grand Cherokee,2000,451,467
+2016,Ohio,5,Chevrolet Impala,2007,425,441
+2016,Ohio,6,Honda Accord,1997,421,437
+2016,Ohio,7,Chevrolet Malibu,2015,327,343
+2016,Ohio,8,Honda Civic,2000,309,325
+2016,Ohio,9,Toyota Camry,2014,292,308
+2016,Ohio,10,Dodge Pickup (Full Size),2005,281,297
+2016,Oklahoma,1,Chevrolet Pickup (Full Size),1994,1127,"1,143"
+2016,Oklahoma,2,Ford Pickup (Full Size),2004,764,780
+2016,Oklahoma,3,Dodge Pickup (Full Size),2001,403,419
+2016,Oklahoma,4,GMC Pickup (Full Size),1994,288,304
+2016,Oklahoma,5,Honda Civic,1998,276,292
+2016,Oklahoma,6,Honda Accord,1996,253,269
+2016,Oklahoma,7,Chevrolet Impala,2005,165,181
+2016,Oklahoma,8,Chevrolet Pickup (Small Size),1998,111,127
+2016,Oklahoma,9,Ford Explorer,2002,107,123
+2016,Oklahoma,10,Chevrolet Malibu,2009,103,119
+2016,Oregon,1,Honda Accord,1994,1475,"1,491"
+2016,Oregon,2,Honda Civic,1998,1260,"1,276"
+2016,Oregon,3,Subaru Legacy,1998,361,377
+2016,Oregon,4,Ford Pickup (Full Size),2004,279,295
+2016,Oregon,5,Toyota Camry,1990,205,221
+2016,Oregon,6,Chevrolet Pickup (Full Size),1999,201,217
+2016,Oregon,7,Acura Integra,1994,193,209
+2016,Oregon,8,Subaru Impreza,1999,155,171
+2016,Oregon,9,Honda CR-V,1999,142,158
+2016,Oregon,10,Jeep Cherokee/Grand Cherokee,1994,125,141
+2016,Pennsylvania,1,Honda Accord,1997,528,544
+2016,Pennsylvania,2,Honda Civic,1998,523,539
+2016,Pennsylvania,3,Ford Pickup (Full Size),2006,287,303
+2016,Pennsylvania,4,Toyota Camry,2014,253,269
+2016,Pennsylvania,5,Nissan Altima,2015,245,261
+2016,Pennsylvania,6,Chevrolet Impala,2006,208,224
+2016,Pennsylvania,7,Toyota Corolla,2014,194,210
+2016,Pennsylvania,8,Chevrolet Pickup (Full Size),2003,187,203
+2016,Pennsylvania,9,Jeep Cherokee/Grand Cherokee,1999,172,188
+2016,Pennsylvania,10,Chevrolet Malibu,2015,143,159
+2016,Rhode Island,1,Honda Accord,1997,85,101
+2016,Rhode Island,2,Honda Civic,1998,79,95
+2016,Rhode Island,3,Toyota Camry,2014,53,69
+2016,Rhode Island,4,Nissan Maxima,2000,29,45
+2016,Rhode Island,5,Toyota Corolla,2014,24,40
+2016,Rhode Island,6,Nissan Altima,2013,22,38
+2016,Rhode Island,7,Ford Pickup (Full Size),2003,20,36
+2016,Rhode Island,8,Jeep Cherokee/Grand Cherokee,1999,16,32
+2016,Rhode Island,9,Honda CR-V,1999,11,27
+2016,Rhode Island,10,Toyota Avalon,2000,2,18
+2016,South Carolina,1,Ford Pickup (Full Size),2006,570,586
+2016,South Carolina,2,Honda Accord,1996,442,458
+2016,South Carolina,3,Chevrolet Pickup (Full Size),2004,439,455
+2016,South Carolina,4,Ford Crown Victoria,2003,194,210
+2016,South Carolina,5,Toyota Camry,2014,167,183
+2016,South Carolina,6,Honda Civic,2000,160,176
+2016,South Carolina,7,Dodge Pickup (Full Size),2001,156,172
+2016,South Carolina,8,Chevrolet Impala,2008,150,166
+2016,South Carolina,9,Nissan Altima,2015,139,155
+2016,South Carolina,10,Ford Explorer,2002,130,146
+2016,South Dakota,1,Chevrolet Pickup (Full Size),1994,36,52
+2016,South Dakota,2,Ford Pickup (Full Size),2001,31,47
+2016,South Dakota,3,Chevrolet Impala,2004,8,24
+2016,South Dakota,4,Dodge Pickup (Full Size),2001,7,23
+2016,South Dakota,4,Honda Civic,1996,7,23
+2016,South Dakota,5,GMC Pickup (Full Size),1994,6,22
+2016,South Dakota,6,Chevrolet Malibu,2003,4,20
+2016,South Dakota,7,Chevrolet Pickup (Small Size),1997,1,17
+2016,South Dakota,7,Ford Taurus,2006,1,17
+2016,South Dakota,7,Jeep Cherokee/Grand Cherokee,1999,1,17
+2016,Tennessee,1,Chevrolet Pickup (Full Size),1997,677,693
+2016,Tennessee,2,Ford Pickup (Full Size),2004,452,468
+2016,Tennessee,3,Honda Accord,1996,251,267
+2016,Tennessee,4,Nissan Altima,2005,199,215
+2016,Tennessee,5,Chevrolet Impala,2007,197,213
+2016,Tennessee,6,GMC Pickup (Full Size),1996,185,201
+2016,Tennessee,7,Honda Civic,2000,182,198
+2016,Tennessee,8,Nissan Maxima,1997,172,188
+2016,Tennessee,8,Toyota Camry,2007,172,188
+2016,Tennessee,9,Jeep Cherokee/Grand Cherokee,2000,162,178
+2016,Texas,1,Ford Pickup (Full Size),2006,7881,"7,897"
+2016,Texas,2,Chevrolet Pickup (Full Size),2004,6142,"6,158"
+2016,Texas,3,Dodge Pickup (Full Size),2004,2882,"2,898"
+2016,Texas,4,Honda Accord,1997,1610,"1,626"
+2016,Texas,5,GMC Pickup (Full Size),2015,1434,"1,450"
+2016,Texas,6,Honda Civic,2000,1355,"1,371"
+2016,Texas,7,Chevrolet Tahoe,2004,1132,"1,148"
+2016,Texas,8,Toyota Camry,2014,1014,"1,030"
+2016,Texas,9,Nissan Altima,2012,941,957
+2016,Texas,10,Chevrolet Impala,2007,882,898
+2016,Utah,1,Honda Accord,1997,922,938
+2016,Utah,2,Honda Civic,1998,899,915
+2016,Utah,3,Subaru Legacy,1996,246,262
+2016,Utah,4,Ford Pickup (Full Size),2006,222,238
+2016,Utah,5,Chevrolet Pickup (Full Size),2004,209,225
+2016,Utah,6,Dodge Pickup (Full Size),2012,101,117
+2016,Utah,7,Subaru Impreza,1997,90,106
+2016,Utah,8,Acura Integra,1995,87,103
+2016,Utah,9,Jeep Cherokee/Grand Cherokee,1996,86,102
+2016,Utah,10,Nissan Altima,1997,81,97
+2016,Vermont,1,Chevrolet Pickup (Full Size),2001,,15
+2016,Vermont,2,Ford Pickup (Full Size),2010,2,8
+2016,Vermont,2,Honda Accord,2002,2,8
+2016,Vermont,3,Hyundai Elantra,2015,2,7
+2016,Vermont,4,Honda Civic,2005,2,6
+2016,Vermont,4,Subaru Legacy,1999,2,6
+2016,Vermont,5,Ford Pickup (Small Size),2002,2,5
+2016,Vermont,5,GMC Pickup (Full Size),2007,2,5
+2016,Vermont,5,Nissan Sentra,2012,2,5
+2016,Vermont,5,Subaru Impreza,2002,2,5
+2016,Virginia,1,Honda Accord,2002,250,266
+2016,Virginia,2,Ford Pickup (Full Size),2004,189,205
+2016,Virginia,3,Honda Civic,2013,184,200
+2016,Virginia,4,Toyota Camry,2014,165,181
+2016,Virginia,5,Nissan Altima,2015,146,162
+2016,Virginia,6,Chevrolet Pickup (Full Size),2003,128,144
+2016,Virginia,7,Toyota Corolla,2013,124,140
+2016,Virginia,8,Ford Explorer,2002,103,119
+2016,Virginia,9,Jeep Cherokee/Grand Cherokee,2001,91,107
+2016,Virginia,10,Chevrolet Impala,2006,89,105
+2016,Washington,1,Honda Accord,1996,3741,"3,757"
+2016,Washington,2,Honda Civic,1998,3097,"3,113"
+2016,Washington,3,Ford Pickup (Full Size),2004,729,745
+2016,Washington,4,Acura Integra,1994,624,640
+2016,Washington,5,Toyota Camry,1989,586,602
+2016,Washington,6,Subaru Legacy,1996,583,599
+2016,Washington,7,Chevrolet Pickup (Full Size),1999,546,562
+2016,Washington,8,Jeep Cherokee/Grand Cherokee,1994,346,362
+2016,Washington,9,Toyota Corolla,2010,316,332
+2016,Washington,10,Nissan Sentra,1997,280,296
+2016,West Virginia,1,Ford Pickup (Full Size),2003,71,87
+2016,West Virginia,2,Chevrolet Pickup (Full Size),2000,60,76
+2016,West Virginia,3,Jeep Cherokee/Grand Cherokee,1996,20,36
+2016,West Virginia,4,Dodge Pickup (Full Size),2003,13,29
+2016,West Virginia,4,Chevrolet Pickup (Small Size),1999,13,29
+2016,West Virginia,5,Chevrolet Impala,2006,8,24
+2016,West Virginia,6,Toyota Camry,2014,4,20
+2016,West Virginia,7,Ford Taurus,1995,3,19
+2016,West Virginia,8,GMC Pickup (Full Size),2011,2,18
+2016,West Virginia,9,Chevrolet Cavalier,2002,1,17
+2016,Wisconsin,1,Dodge Caravan,2002,1019,"1,035"
+2016,Wisconsin,2,Honda Civic,1998,454,470
+2016,Wisconsin,3,Honda Accord,1997,434,450
+2016,Wisconsin,4,Chrysler Town & Country,2002,297,313
+2016,Wisconsin,5,Chevrolet Impala,2007,216,232
+2016,Wisconsin,6,Dodge Stratus,2002,193,209
+2016,Wisconsin,7,Toyota Camry,2007,175,191
+2016,Wisconsin,8,Chevrolet Malibu,2015,163,179
+2016,Wisconsin,8,Dodge Intrepid,2002,163,179
+2016,Wisconsin,9,Honda CR-V,2000,156,172
+2016,Wyoming,1,Chevrolet Pickup (Full Size),2007,16,32
+2016,Wyoming,2,Ford Pickup (Full Size),2000,13,29
+2016,Wyoming,3,Dodge Pickup (Full Size),2004,,13
+2016,Wyoming,4,GMC Pickup (Full Size),2007,2,10
+2016,Wyoming,4,Jeep Cherokee/Grand Cherokee,2000,2,10
+2016,Wyoming,5,Dodge Durango,2002,2,9
+2016,Wyoming,5,Toyota Camry,1997,2,9
+2016,Wyoming,6,GMC Yukon,2002,2,8
+2016,Wyoming,6,Honda Accord,1997,2,8
+2016,Wyoming,7,Chevrolet Cavalier,2003,2,6
+2017,Alabama,1,Chevrolet Pickup (Full Size),2005,482,499
+2017,Alabama,2,Ford Pickup (Full Size),2006,340,357
+2017,Alabama,3,Toyota Camry,2014,188,205
+2017,Alabama,4,Nissan Altima,2014,174,191
+2017,Alabama,4,Chevrolet Impala,2004,174,191
+2017,Alabama,5,Honda Accord,1998,163,180
+2017,Alabama,6,GMC Pickup (Full Size),1999,135,152
+2017,Alabama,7,Dodge Pickup (Full Size),1998,121,138
+2017,Alabama,8,Ford Mustang,2002,105,122
+2017,Alabama,9,Ford Explorer,2002,102,119
+2017,Alaska,1,Chevrolet Pickup (Full Size),2003,130,147
+2017,Alaska,2,Ford Pickup (Full Size),2004,78,95
+2017,Alaska,3,GMC Pickup (Full Size),1997,41,58
+2017,Alaska,4,Honda Civic,2000,39,56
+2017,Alaska,5,Honda Accord,1993,29,46
+2017,Alaska,6,Dodge Pickup (Full Size),1998,27,44
+2017,Alaska,7,Ford Explorer,1994,14,31
+2017,Alaska,8,Jeep Cherokee/Grand Cherokee,1999,11,28
+2017,Alaska,9,Ford Pickup (Small Size),2000,5,22
+2017,Alaska,10,Chevrolet Pickup (Small Size),1998,3,20
+2017,Arizona,1,Honda Accord,1997,1055,"1,072"
+2017,Arizona,2,Honda Civic,1998,999,"1,016"
+2017,Arizona,3,Chevrolet Pickup (Full Size),2004,833,850
+2017,Arizona,4,Ford Pickup (Full Size),2006,755,772
+2017,Arizona,5,Dodge Pickup (Full Size),2001,411,428
+2017,Arizona,6,Nissan Altima,2015,252,269
+2017,Arizona,7,GMC Pickup (Full Size),2015,229,246
+2017,Arizona,8,Toyota Camry,1999,193,210
+2017,Arizona,9,Jeep Cherokee/Grand Cherokee,1994,190,207
+2017,Arizona,10,Nissan Sentra,2014,183,200
+2017,Arkansas,1,Chevrolet Pickup (Full Size),2004,385,402
+2017,Arkansas,2,Ford Pickup (Full Size),2008,235,252
+2017,Arkansas,3,GMC Pickup (Full Size),1997,157,174
+2017,Arkansas,4,Dodge Pickup (Full Size),1999,110,127
+2017,Arkansas,5,Honda Accord,1997,105,122
+2017,Arkansas,6,Nissan Altima,2015,72,89
+2017,Arkansas,7,Toyota Camry,2013,65,82
+2017,Arkansas,8,Chevrolet Impala,2012,59,76
+2017,Arkansas,9,Chevrolet Malibu,2006,55,72
+2017,Arkansas,10,Chevrolet Tahoe,2003,51,68
+2017,California,1,Honda Accord,1996,28328,"28,345"
+2017,California,2,Honda Civic,1998,28028,"28,045"
+2017,California,3,Chevrolet Pickup (Full Size),2006,6031,"6,048"
+2017,California,4,Toyota Camry,1991,5328,"5,345"
+2017,California,5,Ford Pickup (Full Size),2006,4487,"4,504"
+2017,California,6,Acura Integra,1994,4256,"4,273"
+2017,California,7,Toyota Corolla,2014,3322,"3,339"
+2017,California,8,Nissan Sentra,1997,2538,"2,555"
+2017,California,9,Nissan Altima,1997,2264,"2,281"
+2017,California,10,Honda CR-V,1999,2016,"2,033"
+2017,Colorado,1,Honda Civic,1997,1363,"1,380"
+2017,Colorado,2,Honda Accord,1997,1150,"1,167"
+2017,Colorado,3,Ford Pickup (Full Size),2005,578,595
+2017,Colorado,4,Jeep Cherokee/Grand Cherokee,1999,577,594
+2017,Colorado,5,Chevrolet Pickup (Full Size),2000,433,450
+2017,Colorado,6,Dodge Pickup (Full Size),2001,291,308
+2017,Colorado,7,Subaru Legacy,1996,198,215
+2017,Colorado,8,Acura Integra,1994,191,208
+2017,Colorado,9,Toyota Camry,1989,186,203
+2017,Colorado,10,Toyota Corolla,2014,153,170
+2017,Connecticut,1,Honda Accord,1997,517,534
+2017,Connecticut,2,Honda Civic,1998,515,532
+2017,Connecticut,3,Nissan Maxima,1998,167,184
+2017,Connecticut,4,Nissan Altima,1997,126,143
+2017,Connecticut,5,Toyota Camry,2014,114,131
+2017,Connecticut,6,Jeep Cherokee/Grand Cherokee,2000,93,110
+2017,Connecticut,7,Toyota Corolla,1999,82,99
+2017,Connecticut,8,Honda CR-V,1998,75,92
+2017,Connecticut,9,Dodge Caravan,2000,62,79
+2017,Connecticut,10,Acura TL,2003,59,76
+2017,Delaware,1,Honda Civic,2000,36,53
+2017,Delaware,2,Honda Accord,2004,26,43
+2017,Delaware,3,Chevrolet Pickup (Full Size),2005,19,36
+2017,Delaware,4,Ford Pickup (Full Size),1999,14,31
+2017,Delaware,5,Chevrolet Impala,2007,11,28
+2017,Delaware,6,Nissan Altima,2006,6,23
+2017,Delaware,6,Honda CR-V,2001,6,23
+2017,Delaware,7,Ford Taurus,2002,5,22
+2017,Delaware,8,Toyota Corolla,2010,4,21
+2017,Delaware,9,Toyota Camry,2012,3,20
+2017,District Of Columbia,1,Dodge Caravan,2002,150,167
+2017,District Of Columbia,2,Honda Accord,1997,115,132
+2017,District Of Columbia,3,Jeep Cherokee/Grand Cherokee,2001,92,109
+2017,District Of Columbia,4,Toyota Camry,2014,78,95
+2017,District Of Columbia,5,Toyota Corolla,2010,53,70
+2017,District Of Columbia,6,Nissan Altima,2015,45,62
+2017,District Of Columbia,7,Ford Pickup (Full Size),1997,32,49
+2017,District Of Columbia,8,Chevrolet Pickup (Full Size),1999,24,41
+2017,District Of Columbia,9,Chevrolet Impala,2013,23,40
+2017,District Of Columbia,9,Chrysler 300/300M,2005,23,40
+2017,Florida,1,Ford Pickup (Full Size),2006,2053,"2,070"
+2017,Florida,2,Honda Civic,2000,1110,"1,127"
+2017,Florida,3,Nissan Altima,2015,1081,"1,098"
+2017,Florida,4,Toyota Camry,2014,1072,"1,089"
+2017,Florida,5,Honda Accord,1997,1008,"1,025"
+2017,Florida,6,Toyota Corolla,2014,897,914
+2017,Florida,7,Chevrolet Pickup (Full Size),2015,769,786
+2017,Florida,8,Chevrolet Impala,2015,525,542
+2017,Florida,9,Dodge Pickup (Full Size),2005,517,534
+2017,Florida,10,Nissan Maxima,2014,462,479
+2017,Georgia,1,Honda Accord,1997,1035,"1,052"
+2017,Georgia,2,Ford Pickup (Full Size),2006,937,954
+2017,Georgia,3,Chevrolet Pickup (Full Size),1999,931,948
+2017,Georgia,4,Honda Civic,2000,636,653
+2017,Georgia,5,Toyota Camry,2014,551,568
+2017,Georgia,6,Chevrolet Impala,2008,495,512
+2017,Georgia,7,Nissan Altima,2014,467,484
+2017,Georgia,8,Dodge Pickup (Full Size),2003,435,452
+2017,Georgia,9,Jeep Cherokee/Grand Cherokee,2001,432,449
+2017,Georgia,10,Dodge Caravan,2002,408,425
+2017,Hawaii,1,Honda Civic,2000,233,250
+2017,Hawaii,2,Honda Accord,1994,163,180
+2017,Hawaii,3,Ford Pickup (Full Size),2006,137,154
+2017,Hawaii,4,Toyota Tacoma,2003,69,86
+2017,Hawaii,5,Toyota Corolla,2004,47,64
+2017,Hawaii,6,Toyota Camry,2000,38,55
+2017,Hawaii,7,Toyota 4Runner,1997,28,45
+2017,Hawaii,8,Nissan Frontier,2004,27,44
+2017,Hawaii,9,Nissan Altima,2004,25,42
+2017,Hawaii,10,Dodge Pickup (Full Size),2001,20,37
+2017,Idaho,1,Ford Pickup (Full Size),2004,91,108
+2017,Idaho,2,Chevrolet Pickup (Full Size),1999,59,76
+2017,Idaho,3,Honda Accord,1996,49,66
+2017,Idaho,4,Honda Civic,1996,35,52
+2017,Idaho,5,Dodge Pickup (Full Size),2001,28,45
+2017,Idaho,6,GMC Pickup (Full Size),1992,15,32
+2017,Idaho,7,Ford Explorer,2002,5,22
+2017,Idaho,8,Ford Pickup (Small Size),1991,2,19
+2017,Idaho,8,Toyota Camry,1997,2,19
+2017,Idaho,8,Jeep Cherokee/Grand Cherokee,1997,2,19
+2017,Illinois,1,Dodge Caravan,2000,1037,"1,054"
+2017,Illinois,2,Chevrolet Impala,2008,562,579
+2017,Illinois,3,Honda Civic,2000,549,566
+2017,Illinois,4,Honda Accord,1997,464,481
+2017,Illinois,5,Chevrolet Malibu,2011,425,442
+2017,Illinois,6,Chevrolet Pickup (Full Size),1999,401,418
+2017,Illinois,7,Ford Pickup (Full Size),2006,375,392
+2017,Illinois,8,Toyota Camry,2014,366,383
+2017,Illinois,9,Jeep Cherokee/Grand Cherokee,2000,357,374
+2017,Illinois,10,Nissan Altima,2014,309,326
+2017,Indiana,1,Ford Pickup (Full Size),2005,642,659
+2017,Indiana,2,Chevrolet Pickup (Full Size),1994,602,619
+2017,Indiana,3,Chevrolet Impala,2004,406,423
+2017,Indiana,4,Dodge Pickup (Full Size),2001,246,263
+2017,Indiana,5,Chevrolet Malibu,2005,221,238
+2017,Indiana,6,GMC Pickup (Full Size),1995,175,192
+2017,Indiana,7,Honda Accord,1994,169,186
+2017,Indiana,7,Chevrolet Pickup (Small Size),1998,169,186
+2017,Indiana,8,Pontiac Grand Prix,2004,166,183
+2017,Indiana,9,Ford Taurus,2003,165,182
+2017,Iowa,1,Chevrolet Pickup (Full Size),2002,241,258
+2017,Iowa,2,Ford Pickup (Full Size),2001,181,198
+2017,Iowa,3,Chevrolet Impala,2005,84,101
+2017,Iowa,4,Dodge Pickup (Full Size),2004,76,93
+2017,Iowa,5,Ford Taurus,2003,60,77
+2017,Iowa,6,Jeep Cherokee/Grand Cherokee,2005,48,65
+2017,Iowa,7,GMC Pickup (Full Size),2007,43,60
+2017,Iowa,8,Toyota Camry,1997,42,59
+2017,Iowa,9,Dodge Caravan,2005,39,56
+2017,Iowa,9,Pontiac Grand Prix,1999,39,56
+2017,Kansas,1,Chevrolet Pickup (Full Size),1999,422,439
+2017,Kansas,2,Ford Pickup (Full Size),2003,398,415
+2017,Kansas,3,Honda Accord,1996,302,319
+2017,Kansas,4,Honda Civic,2000,203,220
+2017,Kansas,5,Dodge Pickup (Full Size),2001,143,160
+2017,Kansas,6,GMC Pickup (Full Size),1999,96,113
+2017,Kansas,7,Chevrolet Impala,2004,81,98
+2017,Kansas,8,Dodge Caravan,2002,72,89
+2017,Kansas,8,Jeep Cherokee/Grand Cherokee,2000,72,89
+2017,Kansas,9,Chevrolet Pickup (Small Size),1998,71,88
+2017,Kentucky,1,Chevrolet Pickup (Full Size),1998,233,250
+2017,Kentucky,2,Ford Pickup (Full Size),2001,224,241
+2017,Kentucky,3,Toyota Camry,1999,161,178
+2017,Kentucky,4,Chevrolet Impala,2005,101,118
+2017,Kentucky,5,Toyota Corolla,2014,93,110
+2017,Kentucky,6,Honda Accord,1997,91,108
+2017,Kentucky,7,Ford Explorer,2000,82,99
+2017,Kentucky,8,Ford Taurus,2002,77,94
+2017,Kentucky,9,Dodge Pickup (Full Size),2001,76,93
+2017,Kentucky,10,Chevrolet Pickup (Small Size),2000,62,79
+2017,Louisiana,1,Chevrolet Pickup (Full Size),2006,654,671
+2017,Louisiana,2,Ford Pickup (Full Size),2006,567,584
+2017,Louisiana,3,GMC Pickup (Full Size),2006,236,253
+2017,Louisiana,4,Toyota Camry,2007,207,224
+2017,Louisiana,5,Dodge Pickup (Full Size),2003,205,222
+2017,Louisiana,6,Nissan Altima,2014,198,215
+2017,Louisiana,7,Honda Accord,2008,192,209
+2017,Louisiana,8,Chevrolet Impala,2008,160,177
+2017,Louisiana,9,GMC Yukon,2003,108,125
+2017,Louisiana,10,Chevrolet Tahoe,2007,97,114
+2017,Maine,1,Chevrolet Pickup (Full Size),2001,12,29
+2017,Maine,2,GMC Pickup (Full Size),1993,9,26
+2017,Maine,3,Jeep Cherokee/Grand Cherokee,2004,1,18
+2017,Maine,4,Ford Pickup (Full Size),2004,2,15
+2017,Maine,5,Toyota Corolla,2009,4,13
+2017,Maine,5,Toyota Camry,1996,4,13
+2017,Maine,6,Honda Civic,2009,6,11
+2017,Maine,7,Chevrolet Impala,2000,9,8
+2017,Maine,7,Ford Focus,2001,9,8
+2017,Maine,8,Chevrolet Cobalt,2005,10,7
+2017,Maryland,1,Dodge Caravan,2003,710,727
+2017,Maryland,2,Honda Accord,2008,658,675
+2017,Maryland,3,Toyota Camry,2014,330,347
+2017,Maryland,4,Honda Civic,2012,296,313
+2017,Maryland,5,Ford Pickup (Full Size),2004,270,287
+2017,Maryland,6,Nissan Altima,2013,213,230
+2017,Maryland,7,Toyota Corolla,2014,187,204
+2017,Maryland,8,Jeep Cherokee/Grand Cherokee,2015,177,194
+2017,Maryland,9,Chevrolet Pickup (Full Size),1999,175,192
+2017,Maryland,10,Hyundai Sonata,2013,152,169
+2017,Massachusetts,1,Honda Civic,2000,409,426
+2017,Massachusetts,2,Honda Accord,1997,385,402
+2017,Massachusetts,3,Toyota Camry,2014,243,260
+2017,Massachusetts,4,Toyota Corolla,2010,186,203
+2017,Massachusetts,5,Dodge Caravan,2005,171,188
+2017,Massachusetts,6,Ford Pickup (Full Size),2004,161,178
+2017,Massachusetts,7,Nissan Altima,2005,139,156
+2017,Massachusetts,8,Jeep Cherokee/Grand Cherokee,1999,126,143
+2017,Massachusetts,9,Honda CR-V,1999,90,107
+2017,Massachusetts,10,Chevrolet Pickup (Full Size),2015,78,95
+2017,Michigan,1,Chevrolet Impala,2008,716,733
+2017,Michigan,2,Chevrolet Pickup (Full Size),1999,568,585
+2017,Michigan,3,Ford Pickup (Full Size),2006,513,530
+2017,Michigan,4,Dodge Caravan,2003,511,528
+2017,Michigan,5,Dodge Charger,2015,460,477
+2017,Michigan,6,Chevrolet Trailblazer,2007,445,462
+2017,Michigan,7,Chevrolet Malibu,2013,434,451
+2017,Michigan,8,Pontiac Grand Prix,2004,401,418
+2017,Michigan,9,Jeep Cherokee/Grand Cherokee,2000,390,407
+2017,Michigan,10,Ford Fusion,2014,338,355
+2017,Minnesota,1,Honda Civic,1998,659,676
+2017,Minnesota,2,Honda Accord,1997,507,524
+2017,Minnesota,3,Chevrolet Pickup (Full Size),1999,312,329
+2017,Minnesota,4,Ford Pickup (Full Size),2005,229,246
+2017,Minnesota,5,Toyota Camry,1999,197,214
+2017,Minnesota,6,Honda CR-V,1999,173,190
+2017,Minnesota,7,Chevrolet Impala,2004,154,171
+2017,Minnesota,8,Dodge Caravan,2003,126,143
+2017,Minnesota,9,Toyota Corolla,2010,92,109
+2017,Minnesota,10,Acura Integra,1996,78,95
+2017,Mississippi,1,Chevrolet Pickup (Full Size),1994,269,286
+2017,Mississippi,2,Ford Pickup (Full Size),2006,261,278
+2017,Mississippi,3,Nissan Altima,2015,111,128
+2017,Mississippi,4,Chevrolet Impala,2006,97,114
+2017,Mississippi,5,GMC Pickup (Full Size),2000,86,103
+2017,Mississippi,6,Toyota Camry,2014,77,94
+2017,Mississippi,7,Honda Accord,2007,74,91
+2017,Mississippi,8,Dodge Pickup (Full Size),2005,68,85
+2017,Mississippi,9,Chevrolet Malibu,2015,56,73
+2017,Mississippi,10,Chevrolet Tahoe,2005,51,68
+2017,Missouri,1,Ford Pickup (Full Size),2004,863,880
+2017,Missouri,2,Chevrolet Pickup (Full Size),2000,766,783
+2017,Missouri,3,Dodge Caravan,2003,448,465
+2017,Missouri,4,Dodge Pickup (Full Size),2001,393,410
+2017,Missouri,5,Chevrolet Impala,2008,352,369
+2017,Missouri,6,Jeep Cherokee/Grand Cherokee,1998,272,289
+2017,Missouri,7,Honda Accord,1997,257,274
+2017,Missouri,8,Ford Taurus,2002,233,250
+2017,Missouri,9,Chevrolet Malibu,2015,226,243
+2017,Missouri,10,Toyota Camry,2014,219,236
+2017,Montana,1,Chevrolet Pickup (Full Size),1999,148,165
+2017,Montana,2,Ford Pickup (Full Size),1995,128,145
+2017,Montana,3,Dodge Pickup (Full Size),2006,61,78
+2017,Montana,4,GMC Pickup (Full Size),2008,38,55
+2017,Montana,5,Honda Accord,1994,35,52
+2017,Montana,6,Chevrolet Impala,2001,14,31
+2017,Montana,7,Ford Explorer,1996,10,27
+2017,Montana,8,Chevrolet Pickup (Small Size),1995,7,24
+2017,Montana,9,Toyota Camry,2015,6,23
+2017,Montana,10,Ford Pickup (Small Size),2000,5,22
+2017,Nebraska,1,Chevrolet Pickup (Full Size),1996,179,196
+2017,Nebraska,2,Ford Pickup (Full Size),1999,151,168
+2017,Nebraska,3,Honda Civic,1997,148,165
+2017,Nebraska,4,Honda Accord,1996,140,157
+2017,Nebraska,5,Dodge Pickup (Full Size),2001,85,102
+2017,Nebraska,6,Jeep Cherokee/Grand Cherokee,1999,53,70
+2017,Nebraska,7,Chevrolet Impala,2006,51,68
+2017,Nebraska,8,GMC Pickup (Full Size),2015,44,61
+2017,Nebraska,9,Toyota Camry,2000,32,49
+2017,Nebraska,10,Chevrolet Pickup (Small Size),1998,26,43
+2017,Nevada,1,Honda Accord,1996,1031,"1,048"
+2017,Nevada,2,Honda Civic,1998,994,"1,011"
+2017,Nevada,3,Chevrolet Pickup (Full Size),2006,360,377
+2017,Nevada,4,Ford Pickup (Full Size),2006,262,279
+2017,Nevada,5,Toyota Camry,2015,237,254
+2017,Nevada,6,Nissan Maxima,1997,191,208
+2017,Nevada,7,Nissan Altima,1997,190,207
+2017,Nevada,8,Nissan Sentra,2014,183,200
+2017,Nevada,9,Toyota Corolla,2014,134,151
+2017,Nevada,10,Dodge Pickup (Full Size),2005,131,148
+2017,New Hampshire,1,Honda Civic,1997,17,34
+2017,New Hampshire,2,Honda Accord,1996,3,20
+2017,New Hampshire,3,Chevrolet Pickup (Full Size),2002,2,19
+2017,New Hampshire,4,Ford Pickup (Full Size),2002,0,17
+2017,New Hampshire,5,Dodge Caravan,2003,,16
+2017,New Hampshire,6,Ford Focus,2007,3,14
+2017,New Hampshire,7,Toyota Camry,1999,4,13
+2017,New Hampshire,8,Jeep Cherokee/Grand Cherokee,2000,6,11
+2017,New Hampshire,9,GMC Pickup (Full Size),2007,8,9
+2017,New Hampshire,9,Toyota Corolla,1999,8,9
+2017,New Jersey,1,Honda Accord,1997,827,844
+2017,New Jersey,2,Honda Civic,1998,736,753
+2017,New Jersey,3,Dodge Caravan,2002,410,427
+2017,New Jersey,4,Nissan Sentra,1998,323,340
+2017,New Jersey,5,Ford Pickup (Full Size),2006,278,295
+2017,New Jersey,6,Nissan Altima,2014,274,291
+2017,New Jersey,7,Jeep Cherokee/Grand Cherokee,2000,269,286
+2017,New Jersey,8,Toyota Camry,2014,215,232
+2017,New Jersey,9,Nissan Maxima,1998,178,195
+2017,New Jersey,10,Ford Econoline E350,2003,167,184
+2017,New Mexico,1,Honda Civic,1998,555,572
+2017,New Mexico,2,Ford Pickup (Full Size),2006,540,557
+2017,New Mexico,3,Honda Accord,1994,528,545
+2017,New Mexico,4,Chevrolet Pickup (Full Size),2006,466,483
+2017,New Mexico,5,Dodge Pickup (Full Size),2003,252,269
+2017,New Mexico,6,GMC Pickup (Full Size),2006,163,180
+2017,New Mexico,7,Jeep Cherokee/Grand Cherokee,1994,132,149
+2017,New Mexico,8,Toyota Camry,1999,111,128
+2017,New Mexico,9,Chevrolet Pickup (Small Size),1998,84,101
+2017,New Mexico,10,Chevrolet Impala,2005,73,90
+2017,New York,1,Honda Accord,1997,707,724
+2017,New York,2,Honda Civic,1998,690,707
+2017,New York,3,Toyota Camry,2014,483,500
+2017,New York,4,Nissan Altima,2015,357,374
+2017,New York,5,Dodge Caravan,2000,351,368
+2017,New York,6,Ford Econoline E350,2011,322,339
+2017,New York,7,Nissan Maxima,1998,311,328
+2017,New York,8,Honda CR-V,1997,266,283
+2017,New York,9,Toyota Corolla,2010,263,280
+2017,New York,10,Jeep Cherokee/Grand Cherokee,2015,246,263
+2017,North Carolina,1,Honda Accord,1997,592,609
+2017,North Carolina,2,Ford Pickup (Full Size),2004,407,424
+2017,North Carolina,3,Chevrolet Pickup (Full Size),2003,353,370
+2017,North Carolina,4,Honda Civic,2000,333,350
+2017,North Carolina,5,Toyota Camry,2014,274,291
+2017,North Carolina,6,Nissan Altima,2015,232,249
+2017,North Carolina,7,Jeep Cherokee/Grand Cherokee,1999,186,203
+2017,North Carolina,8,Chevrolet Impala,2006,177,194
+2017,North Carolina,9,Toyota Corolla,2014,173,190
+2017,North Carolina,10,Ford Explorer,2003,168,185
+2017,North Dakota,1,Chevrolet Pickup (Full Size),2002,110,127
+2017,North Dakota,2,Ford Pickup (Full Size),1997,84,101
+2017,North Dakota,3,Dodge Pickup (Full Size),1998,32,49
+2017,North Dakota,4,GMC Pickup (Full Size),2006,20,37
+2017,North Dakota,5,Chevrolet Impala,2015,10,27
+2017,North Dakota,6,Honda Accord,1990,6,23
+2017,North Dakota,7,Jeep Cherokee/Grand Cherokee,1999,4,21
+2017,North Dakota,8,Chevrolet Pickup (Small Size),1999,1,18
+2017,North Dakota,9,Pontiac Grand Am,2000,0,17
+2017,North Dakota,10,Ford Taurus,1998,,16
+2017,Ohio,1,Dodge Caravan,2003,662,679
+2017,Ohio,2,Chevrolet Pickup (Full Size),1999,562,579
+2017,Ohio,3,Ford Pickup (Full Size),2004,523,540
+2017,Ohio,4,Jeep Cherokee/Grand Cherokee,2000,450,467
+2017,Ohio,5,Chevrolet Impala,2007,424,441
+2017,Ohio,6,Honda Accord,1997,420,437
+2017,Ohio,7,Chevrolet Malibu,2015,326,343
+2017,Ohio,8,Honda Civic,2000,308,325
+2017,Ohio,9,Toyota Camry,2014,291,308
+2017,Ohio,10,Dodge Pickup (Full Size),2005,280,297
+2017,Oklahoma,1,Chevrolet Pickup (Full Size),1994,1126,"1,143"
+2017,Oklahoma,2,Ford Pickup (Full Size),2004,763,780
+2017,Oklahoma,3,Dodge Pickup (Full Size),2001,402,419
+2017,Oklahoma,4,GMC Pickup (Full Size),1994,287,304
+2017,Oklahoma,5,Honda Civic,1998,275,292
+2017,Oklahoma,6,Honda Accord,1996,252,269
+2017,Oklahoma,7,Chevrolet Impala,2005,164,181
+2017,Oklahoma,8,Chevrolet Pickup (Small Size),1998,110,127
+2017,Oklahoma,9,Ford Explorer,2002,106,123
+2017,Oklahoma,10,Chevrolet Malibu,2009,102,119
+2017,Oregon,1,Honda Accord,1994,1474,"1,491"
+2017,Oregon,2,Honda Civic,1998,1259,"1,276"
+2017,Oregon,3,Subaru Legacy,1998,360,377
+2017,Oregon,4,Ford Pickup (Full Size),2004,278,295
+2017,Oregon,5,Toyota Camry,1990,204,221
+2017,Oregon,6,Chevrolet Pickup (Full Size),1999,200,217
+2017,Oregon,7,Acura Integra,1994,192,209
+2017,Oregon,8,Subaru Impreza,1999,154,171
+2017,Oregon,9,Honda CR-V,1999,141,158
+2017,Oregon,10,Jeep Cherokee/Grand Cherokee,1994,124,141
+2017,Pennsylvania,1,Honda Accord,1997,527,544
+2017,Pennsylvania,2,Honda Civic,1998,522,539
+2017,Pennsylvania,3,Ford Pickup (Full Size),2006,286,303
+2017,Pennsylvania,4,Toyota Camry,2014,252,269
+2017,Pennsylvania,5,Nissan Altima,2015,244,261
+2017,Pennsylvania,6,Chevrolet Impala,2006,207,224
+2017,Pennsylvania,7,Toyota Corolla,2014,193,210
+2017,Pennsylvania,8,Chevrolet Pickup (Full Size),2003,186,203
+2017,Pennsylvania,9,Jeep Cherokee/Grand Cherokee,1999,171,188
+2017,Pennsylvania,10,Chevrolet Malibu,2015,142,159
+2017,Rhode Island,1,Honda Accord,1997,84,101
+2017,Rhode Island,2,Honda Civic,1998,78,95
+2017,Rhode Island,3,Toyota Camry,2014,52,69
+2017,Rhode Island,4,Nissan Maxima,2000,28,45
+2017,Rhode Island,5,Toyota Corolla,2014,23,40
+2017,Rhode Island,6,Nissan Altima,2013,21,38
+2017,Rhode Island,7,Ford Pickup (Full Size),2003,19,36
+2017,Rhode Island,8,Jeep Cherokee/Grand Cherokee,1999,15,32
+2017,Rhode Island,9,Honda CR-V,1999,10,27
+2017,Rhode Island,10,Toyota Avalon,2000,1,18
+2017,South Carolina,1,Ford Pickup (Full Size),2006,569,586
+2017,South Carolina,2,Honda Accord,1996,441,458
+2017,South Carolina,3,Chevrolet Pickup (Full Size),2004,438,455
+2017,South Carolina,4,Ford Crown Victoria,2003,193,210
+2017,South Carolina,5,Toyota Camry,2014,166,183
+2017,South Carolina,6,Honda Civic,2000,159,176
+2017,South Carolina,7,Dodge Pickup (Full Size),2001,155,172
+2017,South Carolina,8,Chevrolet Impala,2008,149,166
+2017,South Carolina,9,Nissan Altima,2015,138,155
+2017,South Carolina,10,Ford Explorer,2002,129,146
+2017,South Dakota,1,Chevrolet Pickup (Full Size),1994,35,52
+2017,South Dakota,2,Ford Pickup (Full Size),2001,30,47
+2017,South Dakota,3,Chevrolet Impala,2004,7,24
+2017,South Dakota,4,Dodge Pickup (Full Size),2001,6,23
+2017,South Dakota,4,Honda Civic,1996,6,23
+2017,South Dakota,5,GMC Pickup (Full Size),1994,5,22
+2017,South Dakota,6,Chevrolet Malibu,2003,3,20
+2017,South Dakota,7,Chevrolet Pickup (Small Size),1997,0,17
+2017,South Dakota,7,Ford Taurus,2006,0,17
+2017,South Dakota,7,Jeep Cherokee/Grand Cherokee,1999,0,17
+2017,Tennessee,1,Chevrolet Pickup (Full Size),1997,676,693
+2017,Tennessee,2,Ford Pickup (Full Size),2004,451,468
+2017,Tennessee,3,Honda Accord,1996,250,267
+2017,Tennessee,4,Nissan Altima,2005,198,215
+2017,Tennessee,5,Chevrolet Impala,2007,196,213
+2017,Tennessee,6,GMC Pickup (Full Size),1996,184,201
+2017,Tennessee,7,Honda Civic,2000,181,198
+2017,Tennessee,8,Nissan Maxima,1997,171,188
+2017,Tennessee,8,Toyota Camry,2007,171,188
+2017,Tennessee,9,Jeep Cherokee/Grand Cherokee,2000,161,178
+2017,Texas,1,Ford Pickup (Full Size),2006,7880,"7,897"
+2017,Texas,2,Chevrolet Pickup (Full Size),2004,6141,"6,158"
+2017,Texas,3,Dodge Pickup (Full Size),2004,2881,"2,898"
+2017,Texas,4,Honda Accord,1997,1609,"1,626"
+2017,Texas,5,GMC Pickup (Full Size),2015,1433,"1,450"
+2017,Texas,6,Honda Civic,2000,1354,"1,371"
+2017,Texas,7,Chevrolet Tahoe,2004,1131,"1,148"
+2017,Texas,8,Toyota Camry,2014,1013,"1,030"
+2017,Texas,9,Nissan Altima,2012,940,957
+2017,Texas,10,Chevrolet Impala,2007,881,898
+2017,Utah,1,Honda Accord,1997,921,938
+2017,Utah,2,Honda Civic,1998,898,915
+2017,Utah,3,Subaru Legacy,1996,245,262
+2017,Utah,4,Ford Pickup (Full Size),2006,221,238
+2017,Utah,5,Chevrolet Pickup (Full Size),2004,208,225
+2017,Utah,6,Dodge Pickup (Full Size),2012,100,117
+2017,Utah,7,Subaru Impreza,1997,89,106
+2017,Utah,8,Acura Integra,1995,86,103
+2017,Utah,9,Jeep Cherokee/Grand Cherokee,1996,85,102
+2017,Utah,10,Nissan Altima,1997,80,97
+2017,Vermont,1,Chevrolet Pickup (Full Size),2001,2,15
+2017,Vermont,2,Ford Pickup (Full Size),2010,9,8
+2017,Vermont,2,Honda Accord,2002,9,8
+2017,Vermont,3,Hyundai Elantra,2015,10,7
+2017,Vermont,4,Honda Civic,2005,11,6
+2017,Vermont,4,Subaru Legacy,1999,11,6
+2017,Vermont,5,Ford Pickup (Small Size),2002,12,5
+2017,Vermont,5,GMC Pickup (Full Size),2007,12,5
+2017,Vermont,5,Nissan Sentra,2012,12,5
+2017,Vermont,5,Subaru Impreza,2002,12,5
+2017,Virginia,1,Honda Accord,2002,249,266
+2017,Virginia,2,Ford Pickup (Full Size),2004,188,205
+2017,Virginia,3,Honda Civic,2013,183,200
+2017,Virginia,4,Toyota Camry,2014,164,181
+2017,Virginia,5,Nissan Altima,2015,145,162
+2017,Virginia,6,Chevrolet Pickup (Full Size),2003,127,144
+2017,Virginia,7,Toyota Corolla,2013,123,140
+2017,Virginia,8,Ford Explorer,2002,102,119
+2017,Virginia,9,Jeep Cherokee/Grand Cherokee,2001,90,107
+2017,Virginia,10,Chevrolet Impala,2006,88,105
+2017,Washington,1,Honda Accord,1996,3740,"3,757"
+2017,Washington,2,Honda Civic,1998,3096,"3,113"
+2017,Washington,3,Ford Pickup (Full Size),2004,728,745
+2017,Washington,4,Acura Integra,1994,623,640
+2017,Washington,5,Toyota Camry,1989,585,602
+2017,Washington,6,Subaru Legacy,1996,582,599
+2017,Washington,7,Chevrolet Pickup (Full Size),1999,545,562
+2017,Washington,8,Jeep Cherokee/Grand Cherokee,1994,345,362
+2017,Washington,9,Toyota Corolla,2010,315,332
+2017,Washington,10,Nissan Sentra,1997,279,296
+2017,West Virginia,1,Ford Pickup (Full Size),2003,70,87
+2017,West Virginia,2,Chevrolet Pickup (Full Size),2000,59,76
+2017,West Virginia,3,Jeep Cherokee/Grand Cherokee,1996,19,36
+2017,West Virginia,4,Dodge Pickup (Full Size),2003,12,29
+2017,West Virginia,4,Chevrolet Pickup (Small Size),1999,12,29
+2017,West Virginia,5,Chevrolet Impala,2006,7,24
+2017,West Virginia,6,Toyota Camry,2014,3,20
+2017,West Virginia,7,Ford Taurus,1995,2,19
+2017,West Virginia,8,GMC Pickup (Full Size),2011,1,18
+2017,West Virginia,9,Chevrolet Cavalier,2002,0,17
+2017,Wisconsin,1,Dodge Caravan,2002,1018,"1,035"
+2017,Wisconsin,2,Honda Civic,1998,453,470
+2017,Wisconsin,3,Honda Accord,1997,433,450
+2017,Wisconsin,4,Chrysler Town & Country,2002,296,313
+2017,Wisconsin,5,Chevrolet Impala,2007,215,232
+2017,Wisconsin,6,Dodge Stratus,2002,192,209
+2017,Wisconsin,7,Toyota Camry,2007,174,191
+2017,Wisconsin,8,Chevrolet Malibu,2015,162,179
+2017,Wisconsin,8,Dodge Intrepid,2002,162,179
+2017,Wisconsin,9,Honda CR-V,2000,155,172
+2017,Wyoming,1,Chevrolet Pickup (Full Size),2007,15,32
+2017,Wyoming,2,Ford Pickup (Full Size),2000,12,29
+2017,Wyoming,3,Dodge Pickup (Full Size),2004,4,13
+2017,Wyoming,4,GMC Pickup (Full Size),2007,7,10
+2017,Wyoming,4,Jeep Cherokee/Grand Cherokee,2000,7,10
+2017,Wyoming,5,Dodge Durango,2002,8,9
+2017,Wyoming,5,Toyota Camry,1997,8,9
+2017,Wyoming,6,GMC Yukon,2002,9,8
+2017,Wyoming,6,Honda Accord,1997,9,8
+2017,Wyoming,7,Chevrolet Cavalier,2003,11,6
+2018,Alabama,1,Chevrolet Pickup (Full Size),2005,481,499
+2018,Alabama,2,Ford Pickup (Full Size),2006,339,357
+2018,Alabama,3,Toyota Camry,2014,187,205
+2018,Alabama,4,Nissan Altima,2014,173,191
+2018,Alabama,4,Chevrolet Impala,2004,173,191
+2018,Alabama,5,Honda Accord,1998,162,180
+2018,Alabama,6,GMC Pickup (Full Size),1999,134,152
+2018,Alabama,7,Dodge Pickup (Full Size),1998,120,138
+2018,Alabama,8,Ford Mustang,2002,104,122
+2018,Alabama,9,Ford Explorer,2002,101,119
+2018,Alaska,1,Chevrolet Pickup (Full Size),2003,129,147
+2018,Alaska,2,Ford Pickup (Full Size),2004,77,95
+2018,Alaska,3,GMC Pickup (Full Size),1997,40,58
+2018,Alaska,4,Honda Civic,2000,38,56
+2018,Alaska,5,Honda Accord,1993,28,46
+2018,Alaska,6,Dodge Pickup (Full Size),1998,26,44
+2018,Alaska,7,Ford Explorer,1994,13,31
+2018,Alaska,8,Jeep Cherokee/Grand Cherokee,1999,10,28
+2018,Alaska,9,Ford Pickup (Small Size),2000,4,22
+2018,Alaska,10,Chevrolet Pickup (Small Size),1998,2,20
+2018,Arizona,1,Honda Accord,1997,1054,"1,072"
+2018,Arizona,2,Honda Civic,1998,998,"1,016"
+2018,Arizona,3,Chevrolet Pickup (Full Size),2004,832,850
+2018,Arizona,4,Ford Pickup (Full Size),2006,754,772
+2018,Arizona,5,Dodge Pickup (Full Size),2001,410,428
+2018,Arizona,6,Nissan Altima,2015,251,269
+2018,Arizona,7,GMC Pickup (Full Size),2015,228,246
+2018,Arizona,8,Toyota Camry,1999,192,210
+2018,Arizona,9,Jeep Cherokee/Grand Cherokee,1994,189,207
+2018,Arizona,10,Nissan Sentra,2014,182,200
+2018,Arkansas,1,Chevrolet Pickup (Full Size),2004,384,402
+2018,Arkansas,2,Ford Pickup (Full Size),2008,234,252
+2018,Arkansas,3,GMC Pickup (Full Size),1997,156,174
+2018,Arkansas,4,Dodge Pickup (Full Size),1999,109,127
+2018,Arkansas,5,Honda Accord,1997,104,122
+2018,Arkansas,6,Nissan Altima,2015,71,89
+2018,Arkansas,7,Toyota Camry,2013,64,82
+2018,Arkansas,8,Chevrolet Impala,2012,58,76
+2018,Arkansas,9,Chevrolet Malibu,2006,54,72
+2018,Arkansas,10,Chevrolet Tahoe,2003,50,68
+2018,California,1,Honda Accord,1996,28327,"28,345"
+2018,California,2,Honda Civic,1998,28027,"28,045"
+2018,California,3,Chevrolet Pickup (Full Size),2006,6030,"6,048"
+2018,California,4,Toyota Camry,1991,5327,"5,345"
+2018,California,5,Ford Pickup (Full Size),2006,4486,"4,504"
+2018,California,6,Acura Integra,1994,4255,"4,273"
+2018,California,7,Toyota Corolla,2014,3321,"3,339"
+2018,California,8,Nissan Sentra,1997,2537,"2,555"
+2018,California,9,Nissan Altima,1997,2263,"2,281"
+2018,California,10,Honda CR-V,1999,2015,"2,033"
+2018,Colorado,1,Honda Civic,1997,1362,"1,380"
+2018,Colorado,2,Honda Accord,1997,1149,"1,167"
+2018,Colorado,3,Ford Pickup (Full Size),2005,577,595
+2018,Colorado,4,Jeep Cherokee/Grand Cherokee,1999,576,594
+2018,Colorado,5,Chevrolet Pickup (Full Size),2000,432,450
+2018,Colorado,6,Dodge Pickup (Full Size),2001,290,308
+2018,Colorado,7,Subaru Legacy,1996,197,215
+2018,Colorado,8,Acura Integra,1994,190,208
+2018,Colorado,9,Toyota Camry,1989,185,203
+2018,Colorado,10,Toyota Corolla,2014,152,170
+2018,Connecticut,1,Honda Accord,1997,516,534
+2018,Connecticut,2,Honda Civic,1998,514,532
+2018,Connecticut,3,Nissan Maxima,1998,166,184
+2018,Connecticut,4,Nissan Altima,1997,125,143
+2018,Connecticut,5,Toyota Camry,2014,113,131
+2018,Connecticut,6,Jeep Cherokee/Grand Cherokee,2000,92,110
+2018,Connecticut,7,Toyota Corolla,1999,81,99
+2018,Connecticut,8,Honda CR-V,1998,74,92
+2018,Connecticut,9,Dodge Caravan,2000,61,79
+2018,Connecticut,10,Acura TL,2003,58,76
+2018,Delaware,1,Honda Civic,2000,35,53
+2018,Delaware,2,Honda Accord,2004,25,43
+2018,Delaware,3,Chevrolet Pickup (Full Size),2005,18,36
+2018,Delaware,4,Ford Pickup (Full Size),1999,13,31
+2018,Delaware,5,Chevrolet Impala,2007,10,28
+2018,Delaware,6,Nissan Altima,2006,5,23
+2018,Delaware,6,Honda CR-V,2001,5,23
+2018,Delaware,7,Ford Taurus,2002,4,22
+2018,Delaware,8,Toyota Corolla,2010,3,21
+2018,Delaware,9,Toyota Camry,2012,2,20
+2018,District Of Columbia,1,Dodge Caravan,2002,149,167
+2018,District Of Columbia,2,Honda Accord,1997,114,132
+2018,District Of Columbia,3,Jeep Cherokee/Grand Cherokee,2001,91,109
+2018,District Of Columbia,4,Toyota Camry,2014,77,95
+2018,District Of Columbia,5,Toyota Corolla,2010,52,70
+2018,District Of Columbia,6,Nissan Altima,2015,44,62
+2018,District Of Columbia,7,Ford Pickup (Full Size),1997,31,49
+2018,District Of Columbia,8,Chevrolet Pickup (Full Size),1999,23,41
+2018,District Of Columbia,9,Chevrolet Impala,2013,22,40
+2018,District Of Columbia,9,Chrysler 300/300M,2005,22,40
+2018,Florida,1,Ford Pickup (Full Size),2006,2052,"2,070"
+2018,Florida,2,Honda Civic,2000,1109,"1,127"
+2018,Florida,3,Nissan Altima,2015,1080,"1,098"
+2018,Florida,4,Toyota Camry,2014,1071,"1,089"
+2018,Florida,5,Honda Accord,1997,1007,"1,025"
+2018,Florida,6,Toyota Corolla,2014,896,914
+2018,Florida,7,Chevrolet Pickup (Full Size),2015,768,786
+2018,Florida,8,Chevrolet Impala,2015,524,542
+2018,Florida,9,Dodge Pickup (Full Size),2005,516,534
+2018,Florida,10,Nissan Maxima,2014,461,479
+2018,Georgia,1,Honda Accord,1997,1034,"1,052"
+2018,Georgia,2,Ford Pickup (Full Size),2006,936,954
+2018,Georgia,3,Chevrolet Pickup (Full Size),1999,930,948
+2018,Georgia,4,Honda Civic,2000,635,653
+2018,Georgia,5,Toyota Camry,2014,550,568
+2018,Georgia,6,Chevrolet Impala,2008,494,512
+2018,Georgia,7,Nissan Altima,2014,466,484
+2018,Georgia,8,Dodge Pickup (Full Size),2003,434,452
+2018,Georgia,9,Jeep Cherokee/Grand Cherokee,2001,431,449
+2018,Georgia,10,Dodge Caravan,2002,407,425
+2018,Hawaii,1,Honda Civic,2000,232,250
+2018,Hawaii,2,Honda Accord,1994,162,180
+2018,Hawaii,3,Ford Pickup (Full Size),2006,136,154
+2018,Hawaii,4,Toyota Tacoma,2003,68,86
+2018,Hawaii,5,Toyota Corolla,2004,46,64
+2018,Hawaii,6,Toyota Camry,2000,37,55
+2018,Hawaii,7,Toyota 4Runner,1997,27,45
+2018,Hawaii,8,Nissan Frontier,2004,26,44
+2018,Hawaii,9,Nissan Altima,2004,24,42
+2018,Hawaii,10,Dodge Pickup (Full Size),2001,19,37
+2018,Idaho,1,Ford Pickup (Full Size),2004,90,108
+2018,Idaho,2,Chevrolet Pickup (Full Size),1999,58,76
+2018,Idaho,3,Honda Accord,1996,48,66
+2018,Idaho,4,Honda Civic,1996,34,52
+2018,Idaho,5,Dodge Pickup (Full Size),2001,27,45
+2018,Idaho,6,GMC Pickup (Full Size),1992,14,32
+2018,Idaho,7,Ford Explorer,2002,4,22
+2018,Idaho,8,Ford Pickup (Small Size),1991,1,19
+2018,Idaho,8,Toyota Camry,1997,1,19
+2018,Idaho,8,Jeep Cherokee/Grand Cherokee,1997,1,19
+2018,Illinois,1,Dodge Caravan,2000,1036,"1,054"
+2018,Illinois,2,Chevrolet Impala,2008,561,579
+2018,Illinois,3,Honda Civic,2000,548,566
+2018,Illinois,4,Honda Accord,1997,463,481
+2018,Illinois,5,Chevrolet Malibu,2011,424,442
+2018,Illinois,6,Chevrolet Pickup (Full Size),1999,400,418
+2018,Illinois,7,Ford Pickup (Full Size),2006,374,392
+2018,Illinois,8,Toyota Camry,2014,365,383
+2018,Illinois,9,Jeep Cherokee/Grand Cherokee,2000,356,374
+2018,Illinois,10,Nissan Altima,2014,308,326
+2018,Indiana,1,Ford Pickup (Full Size),2005,641,659
+2018,Indiana,2,Chevrolet Pickup (Full Size),1994,601,619
+2018,Indiana,3,Chevrolet Impala,2004,405,423
+2018,Indiana,4,Dodge Pickup (Full Size),2001,245,263
+2018,Indiana,5,Chevrolet Malibu,2005,220,238
+2018,Indiana,6,GMC Pickup (Full Size),1995,174,192
+2018,Indiana,7,Honda Accord,1994,168,186
+2018,Indiana,7,Chevrolet Pickup (Small Size),1998,168,186
+2018,Indiana,8,Pontiac Grand Prix,2004,165,183
+2018,Indiana,9,Ford Taurus,2003,164,182
+2018,Iowa,1,Chevrolet Pickup (Full Size),2002,240,258
+2018,Iowa,2,Ford Pickup (Full Size),2001,180,198
+2018,Iowa,3,Chevrolet Impala,2005,83,101
+2018,Iowa,4,Dodge Pickup (Full Size),2004,75,93
+2018,Iowa,5,Ford Taurus,2003,59,77
+2018,Iowa,6,Jeep Cherokee/Grand Cherokee,2005,47,65
+2018,Iowa,7,GMC Pickup (Full Size),2007,42,60
+2018,Iowa,8,Toyota Camry,1997,41,59
+2018,Iowa,9,Dodge Caravan,2005,38,56
+2018,Iowa,9,Pontiac Grand Prix,1999,38,56
+2018,Kansas,1,Chevrolet Pickup (Full Size),1999,421,439
+2018,Kansas,2,Ford Pickup (Full Size),2003,397,415
+2018,Kansas,3,Honda Accord,1996,301,319
+2018,Kansas,4,Honda Civic,2000,202,220
+2018,Kansas,5,Dodge Pickup (Full Size),2001,142,160
+2018,Kansas,6,GMC Pickup (Full Size),1999,95,113
+2018,Kansas,7,Chevrolet Impala,2004,80,98
+2018,Kansas,8,Dodge Caravan,2002,71,89
+2018,Kansas,8,Jeep Cherokee/Grand Cherokee,2000,71,89
+2018,Kansas,9,Chevrolet Pickup (Small Size),1998,70,88
+2018,Kentucky,1,Chevrolet Pickup (Full Size),1998,232,250
+2018,Kentucky,2,Ford Pickup (Full Size),2001,223,241
+2018,Kentucky,3,Toyota Camry,1999,160,178
+2018,Kentucky,4,Chevrolet Impala,2005,100,118
+2018,Kentucky,5,Toyota Corolla,2014,92,110
+2018,Kentucky,6,Honda Accord,1997,90,108
+2018,Kentucky,7,Ford Explorer,2000,81,99
+2018,Kentucky,8,Ford Taurus,2002,76,94
+2018,Kentucky,9,Dodge Pickup (Full Size),2001,75,93
+2018,Kentucky,10,Chevrolet Pickup (Small Size),2000,61,79
+2018,Louisiana,1,Chevrolet Pickup (Full Size),2006,653,671
+2018,Louisiana,2,Ford Pickup (Full Size),2006,566,584
+2018,Louisiana,3,GMC Pickup (Full Size),2006,235,253
+2018,Louisiana,4,Toyota Camry,2007,206,224
+2018,Louisiana,5,Dodge Pickup (Full Size),2003,204,222
+2018,Louisiana,6,Nissan Altima,2014,197,215
+2018,Louisiana,7,Honda Accord,2008,191,209
+2018,Louisiana,8,Chevrolet Impala,2008,159,177
+2018,Louisiana,9,GMC Yukon,2003,107,125
+2018,Louisiana,10,Chevrolet Tahoe,2007,96,114
+2018,Maine,1,Chevrolet Pickup (Full Size),2001,11,29
+2018,Maine,2,GMC Pickup (Full Size),1993,8,26
+2018,Maine,3,Jeep Cherokee/Grand Cherokee,2004,0,18
+2018,Maine,4,Ford Pickup (Full Size),2004,3,15
+2018,Maine,5,Toyota Corolla,2009,5,13
+2018,Maine,5,Toyota Camry,1996,5,13
+2018,Maine,6,Honda Civic,2009,7,11
+2018,Maine,7,Chevrolet Impala,2000,10,8
+2018,Maine,7,Ford Focus,2001,10,8
+2018,Maine,8,Chevrolet Cobalt,2005,11,7
+2018,Maryland,1,Dodge Caravan,2003,709,727
+2018,Maryland,2,Honda Accord,2008,657,675
+2018,Maryland,3,Toyota Camry,2014,329,347
+2018,Maryland,4,Honda Civic,2012,295,313
+2018,Maryland,5,Ford Pickup (Full Size),2004,269,287
+2018,Maryland,6,Nissan Altima,2013,212,230
+2018,Maryland,7,Toyota Corolla,2014,186,204
+2018,Maryland,8,Jeep Cherokee/Grand Cherokee,2015,176,194
+2018,Maryland,9,Chevrolet Pickup (Full Size),1999,174,192
+2018,Maryland,10,Hyundai Sonata,2013,151,169
+2018,Massachusetts,1,Honda Civic,2000,408,426
+2018,Massachusetts,2,Honda Accord,1997,384,402
+2018,Massachusetts,3,Toyota Camry,2014,242,260
+2018,Massachusetts,4,Toyota Corolla,2010,185,203
+2018,Massachusetts,5,Dodge Caravan,2005,170,188
+2018,Massachusetts,6,Ford Pickup (Full Size),2004,160,178
+2018,Massachusetts,7,Nissan Altima,2005,138,156
+2018,Massachusetts,8,Jeep Cherokee/Grand Cherokee,1999,125,143
+2018,Massachusetts,9,Honda CR-V,1999,89,107
+2018,Massachusetts,10,Chevrolet Pickup (Full Size),2015,77,95
+2018,Michigan,1,Chevrolet Impala,2008,715,733
+2018,Michigan,2,Chevrolet Pickup (Full Size),1999,567,585
+2018,Michigan,3,Ford Pickup (Full Size),2006,512,530
+2018,Michigan,4,Dodge Caravan,2003,510,528
+2018,Michigan,5,Dodge Charger,2015,459,477
+2018,Michigan,6,Chevrolet Trailblazer,2007,444,462
+2018,Michigan,7,Chevrolet Malibu,2013,433,451
+2018,Michigan,8,Pontiac Grand Prix,2004,400,418
+2018,Michigan,9,Jeep Cherokee/Grand Cherokee,2000,389,407
+2018,Michigan,10,Ford Fusion,2014,337,355
+2018,Minnesota,1,Honda Civic,1998,658,676
+2018,Minnesota,2,Honda Accord,1997,506,524
+2018,Minnesota,3,Chevrolet Pickup (Full Size),1999,311,329
+2018,Minnesota,4,Ford Pickup (Full Size),2005,228,246
+2018,Minnesota,5,Toyota Camry,1999,196,214
+2018,Minnesota,6,Honda CR-V,1999,172,190
+2018,Minnesota,7,Chevrolet Impala,2004,153,171
+2018,Minnesota,8,Dodge Caravan,2003,125,143
+2018,Minnesota,9,Toyota Corolla,2010,91,109
+2018,Minnesota,10,Acura Integra,1996,77,95
+2018,Mississippi,1,Chevrolet Pickup (Full Size),1994,268,286
+2018,Mississippi,2,Ford Pickup (Full Size),2006,260,278
+2018,Mississippi,3,Nissan Altima,2015,110,128
+2018,Mississippi,4,Chevrolet Impala,2006,96,114
+2018,Mississippi,5,GMC Pickup (Full Size),2000,85,103
+2018,Mississippi,6,Toyota Camry,2014,76,94
+2018,Mississippi,7,Honda Accord,2007,73,91
+2018,Mississippi,8,Dodge Pickup (Full Size),2005,67,85
+2018,Mississippi,9,Chevrolet Malibu,2015,55,73
+2018,Mississippi,10,Chevrolet Tahoe,2005,50,68
+2018,Missouri,1,Ford Pickup (Full Size),2004,862,880
+2018,Missouri,2,Chevrolet Pickup (Full Size),2000,765,783
+2018,Missouri,3,Dodge Caravan,2003,447,465
+2018,Missouri,4,Dodge Pickup (Full Size),2001,392,410
+2018,Missouri,5,Chevrolet Impala,2008,351,369
+2018,Missouri,6,Jeep Cherokee/Grand Cherokee,1998,271,289
+2018,Missouri,7,Honda Accord,1997,256,274
+2018,Missouri,8,Ford Taurus,2002,232,250
+2018,Missouri,9,Chevrolet Malibu,2015,225,243
+2018,Missouri,10,Toyota Camry,2014,218,236
+2018,Montana,1,Chevrolet Pickup (Full Size),1999,147,165
+2018,Montana,2,Ford Pickup (Full Size),1995,127,145
+2018,Montana,3,Dodge Pickup (Full Size),2006,60,78
+2018,Montana,4,GMC Pickup (Full Size),2008,37,55
+2018,Montana,5,Honda Accord,1994,34,52
+2018,Montana,6,Chevrolet Impala,2001,13,31
+2018,Montana,7,Ford Explorer,1996,9,27
+2018,Montana,8,Chevrolet Pickup (Small Size),1995,6,24
+2018,Montana,9,Toyota Camry,2015,5,23
+2018,Montana,10,Ford Pickup (Small Size),2000,4,22
+2018,Nebraska,1,Chevrolet Pickup (Full Size),1996,178,196
+2018,Nebraska,2,Ford Pickup (Full Size),1999,150,168
+2018,Nebraska,3,Honda Civic,1997,147,165
+2018,Nebraska,4,Honda Accord,1996,139,157
+2018,Nebraska,5,Dodge Pickup (Full Size),2001,84,102
+2018,Nebraska,6,Jeep Cherokee/Grand Cherokee,1999,52,70
+2018,Nebraska,7,Chevrolet Impala,2006,50,68
+2018,Nebraska,8,GMC Pickup (Full Size),2015,43,61
+2018,Nebraska,9,Toyota Camry,2000,31,49
+2018,Nebraska,10,Chevrolet Pickup (Small Size),1998,25,43
+2018,Nevada,1,Honda Accord,1996,1030,"1,048"
+2018,Nevada,2,Honda Civic,1998,993,"1,011"
+2018,Nevada,3,Chevrolet Pickup (Full Size),2006,359,377
+2018,Nevada,4,Ford Pickup (Full Size),2006,261,279
+2018,Nevada,5,Toyota Camry,2015,236,254
+2018,Nevada,6,Nissan Maxima,1997,190,208
+2018,Nevada,7,Nissan Altima,1997,189,207
+2018,Nevada,8,Nissan Sentra,2014,182,200
+2018,Nevada,9,Toyota Corolla,2014,133,151
+2018,Nevada,10,Dodge Pickup (Full Size),2005,130,148
+2018,New Hampshire,1,Honda Civic,1997,16,34
+2018,New Hampshire,2,Honda Accord,1996,2,20
+2018,New Hampshire,3,Chevrolet Pickup (Full Size),2002,1,19
+2018,New Hampshire,4,Ford Pickup (Full Size),2002,1,17
+2018,New Hampshire,5,Dodge Caravan,2003,2,16
+2018,New Hampshire,6,Ford Focus,2007,4,14
+2018,New Hampshire,7,Toyota Camry,1999,5,13
+2018,New Hampshire,8,Jeep Cherokee/Grand Cherokee,2000,7,11
+2018,New Hampshire,9,GMC Pickup (Full Size),2007,9,9
+2018,New Hampshire,9,Toyota Corolla,1999,9,9
+2018,New Jersey,1,Honda Accord,1997,826,844
+2018,New Jersey,2,Honda Civic,1998,735,753
+2018,New Jersey,3,Dodge Caravan,2002,409,427
+2018,New Jersey,4,Nissan Sentra,1998,322,340
+2018,New Jersey,5,Ford Pickup (Full Size),2006,277,295
+2018,New Jersey,6,Nissan Altima,2014,273,291
+2018,New Jersey,7,Jeep Cherokee/Grand Cherokee,2000,268,286
+2018,New Jersey,8,Toyota Camry,2014,214,232
+2018,New Jersey,9,Nissan Maxima,1998,177,195
+2018,New Jersey,10,Ford Econoline E350,2003,166,184
+2018,New Mexico,1,Honda Civic,1998,554,572
+2018,New Mexico,2,Ford Pickup (Full Size),2006,539,557
+2018,New Mexico,3,Honda Accord,1994,527,545
+2018,New Mexico,4,Chevrolet Pickup (Full Size),2006,465,483
+2018,New Mexico,5,Dodge Pickup (Full Size),2003,251,269
+2018,New Mexico,6,GMC Pickup (Full Size),2006,162,180
+2018,New Mexico,7,Jeep Cherokee/Grand Cherokee,1994,131,149
+2018,New Mexico,8,Toyota Camry,1999,110,128
+2018,New Mexico,9,Chevrolet Pickup (Small Size),1998,83,101
+2018,New Mexico,10,Chevrolet Impala,2005,72,90
+2018,New York,1,Honda Accord,1997,706,724
+2018,New York,2,Honda Civic,1998,689,707
+2018,New York,3,Toyota Camry,2014,482,500
+2018,New York,4,Nissan Altima,2015,356,374
+2018,New York,5,Dodge Caravan,2000,350,368
+2018,New York,6,Ford Econoline E350,2011,321,339
+2018,New York,7,Nissan Maxima,1998,310,328
+2018,New York,8,Honda CR-V,1997,265,283
+2018,New York,9,Toyota Corolla,2010,262,280
+2018,New York,10,Jeep Cherokee/Grand Cherokee,2015,245,263
+2018,North Carolina,1,Honda Accord,1997,591,609
+2018,North Carolina,2,Ford Pickup (Full Size),2004,406,424
+2018,North Carolina,3,Chevrolet Pickup (Full Size),2003,352,370
+2018,North Carolina,4,Honda Civic,2000,332,350
+2018,North Carolina,5,Toyota Camry,2014,273,291
+2018,North Carolina,6,Nissan Altima,2015,231,249
+2018,North Carolina,7,Jeep Cherokee/Grand Cherokee,1999,185,203
+2018,North Carolina,8,Chevrolet Impala,2006,176,194
+2018,North Carolina,9,Toyota Corolla,2014,172,190
+2018,North Carolina,10,Ford Explorer,2003,167,185
+2018,North Dakota,1,Chevrolet Pickup (Full Size),2002,109,127
+2018,North Dakota,2,Ford Pickup (Full Size),1997,83,101
+2018,North Dakota,3,Dodge Pickup (Full Size),1998,31,49
+2018,North Dakota,4,GMC Pickup (Full Size),2006,19,37
+2018,North Dakota,5,Chevrolet Impala,2015,9,27
+2018,North Dakota,6,Honda Accord,1990,5,23
+2018,North Dakota,7,Jeep Cherokee/Grand Cherokee,1999,3,21
+2018,North Dakota,8,Chevrolet Pickup (Small Size),1999,0,18
+2018,North Dakota,9,Pontiac Grand Am,2000,1,17
+2018,North Dakota,10,Ford Taurus,1998,2,16
+2018,Ohio,1,Dodge Caravan,2003,661,679
+2018,Ohio,2,Chevrolet Pickup (Full Size),1999,561,579
+2018,Ohio,3,Ford Pickup (Full Size),2004,522,540
+2018,Ohio,4,Jeep Cherokee/Grand Cherokee,2000,449,467
+2018,Ohio,5,Chevrolet Impala,2007,423,441
+2018,Ohio,6,Honda Accord,1997,419,437
+2018,Ohio,7,Chevrolet Malibu,2015,325,343
+2018,Ohio,8,Honda Civic,2000,307,325
+2018,Ohio,9,Toyota Camry,2014,290,308
+2018,Ohio,10,Dodge Pickup (Full Size),2005,279,297
+2018,Oklahoma,1,Chevrolet Pickup (Full Size),1994,1125,"1,143"
+2018,Oklahoma,2,Ford Pickup (Full Size),2004,762,780
+2018,Oklahoma,3,Dodge Pickup (Full Size),2001,401,419
+2018,Oklahoma,4,GMC Pickup (Full Size),1994,286,304
+2018,Oklahoma,5,Honda Civic,1998,274,292
+2018,Oklahoma,6,Honda Accord,1996,251,269
+2018,Oklahoma,7,Chevrolet Impala,2005,163,181
+2018,Oklahoma,8,Chevrolet Pickup (Small Size),1998,109,127
+2018,Oklahoma,9,Ford Explorer,2002,105,123
+2018,Oklahoma,10,Chevrolet Malibu,2009,101,119
+2018,Oregon,1,Honda Accord,1994,1473,"1,491"
+2018,Oregon,2,Honda Civic,1998,1258,"1,276"
+2018,Oregon,3,Subaru Legacy,1998,359,377
+2018,Oregon,4,Ford Pickup (Full Size),2004,277,295
+2018,Oregon,5,Toyota Camry,1990,203,221
+2018,Oregon,6,Chevrolet Pickup (Full Size),1999,199,217
+2018,Oregon,7,Acura Integra,1994,191,209
+2018,Oregon,8,Subaru Impreza,1999,153,171
+2018,Oregon,9,Honda CR-V,1999,140,158
+2018,Oregon,10,Jeep Cherokee/Grand Cherokee,1994,123,141
+2018,Pennsylvania,1,Honda Accord,1997,526,544
+2018,Pennsylvania,2,Honda Civic,1998,521,539
+2018,Pennsylvania,3,Ford Pickup (Full Size),2006,285,303
+2018,Pennsylvania,4,Toyota Camry,2014,251,269
+2018,Pennsylvania,5,Nissan Altima,2015,243,261
+2018,Pennsylvania,6,Chevrolet Impala,2006,206,224
+2018,Pennsylvania,7,Toyota Corolla,2014,192,210
+2018,Pennsylvania,8,Chevrolet Pickup (Full Size),2003,185,203
+2018,Pennsylvania,9,Jeep Cherokee/Grand Cherokee,1999,170,188
+2018,Pennsylvania,10,Chevrolet Malibu,2015,141,159
+2018,Rhode Island,1,Honda Accord,1997,83,101
+2018,Rhode Island,2,Honda Civic,1998,77,95
+2018,Rhode Island,3,Toyota Camry,2014,51,69
+2018,Rhode Island,4,Nissan Maxima,2000,27,45
+2018,Rhode Island,5,Toyota Corolla,2014,22,40
+2018,Rhode Island,6,Nissan Altima,2013,20,38
+2018,Rhode Island,7,Ford Pickup (Full Size),2003,18,36
+2018,Rhode Island,8,Jeep Cherokee/Grand Cherokee,1999,14,32
+2018,Rhode Island,9,Honda CR-V,1999,9,27
+2018,Rhode Island,10,Toyota Avalon,2000,0,18
+2018,South Carolina,1,Ford Pickup (Full Size),2006,568,586
+2018,South Carolina,2,Honda Accord,1996,440,458
+2018,South Carolina,3,Chevrolet Pickup (Full Size),2004,437,455
+2018,South Carolina,4,Ford Crown Victoria,2003,192,210
+2018,South Carolina,5,Toyota Camry,2014,165,183
+2018,South Carolina,6,Honda Civic,2000,158,176
+2018,South Carolina,7,Dodge Pickup (Full Size),2001,154,172
+2018,South Carolina,8,Chevrolet Impala,2008,148,166
+2018,South Carolina,9,Nissan Altima,2015,137,155
+2018,South Carolina,10,Ford Explorer,2002,128,146
+2018,South Dakota,1,Chevrolet Pickup (Full Size),1994,34,52
+2018,South Dakota,2,Ford Pickup (Full Size),2001,29,47
+2018,South Dakota,3,Chevrolet Impala,2004,6,24
+2018,South Dakota,4,Dodge Pickup (Full Size),2001,5,23
+2018,South Dakota,4,Honda Civic,1996,5,23
+2018,South Dakota,5,GMC Pickup (Full Size),1994,4,22
+2018,South Dakota,6,Chevrolet Malibu,2003,2,20
+2018,South Dakota,7,Chevrolet Pickup (Small Size),1997,1,17
+2018,South Dakota,7,Ford Taurus,2006,1,17
+2018,South Dakota,7,Jeep Cherokee/Grand Cherokee,1999,1,17
+2018,Tennessee,1,Chevrolet Pickup (Full Size),1997,675,693
+2018,Tennessee,2,Ford Pickup (Full Size),2004,450,468
+2018,Tennessee,3,Honda Accord,1996,249,267
+2018,Tennessee,4,Nissan Altima,2005,197,215
+2018,Tennessee,5,Chevrolet Impala,2007,195,213
+2018,Tennessee,6,GMC Pickup (Full Size),1996,183,201
+2018,Tennessee,7,Honda Civic,2000,180,198
+2018,Tennessee,8,Nissan Maxima,1997,170,188
+2018,Tennessee,8,Toyota Camry,2007,170,188
+2018,Tennessee,9,Jeep Cherokee/Grand Cherokee,2000,160,178
+2018,Texas,1,Ford Pickup (Full Size),2006,7879,"7,897"
+2018,Texas,2,Chevrolet Pickup (Full Size),2004,6140,"6,158"
+2018,Texas,3,Dodge Pickup (Full Size),2004,2880,"2,898"
+2018,Texas,4,Honda Accord,1997,1608,"1,626"
+2018,Texas,5,GMC Pickup (Full Size),2015,1432,"1,450"
+2018,Texas,6,Honda Civic,2000,1353,"1,371"
+2018,Texas,7,Chevrolet Tahoe,2004,1130,"1,148"
+2018,Texas,8,Toyota Camry,2014,1012,"1,030"
+2018,Texas,9,Nissan Altima,2012,939,957
+2018,Texas,10,Chevrolet Impala,2007,880,898
+2018,Utah,1,Honda Accord,1997,920,938
+2018,Utah,2,Honda Civic,1998,897,915
+2018,Utah,3,Subaru Legacy,1996,244,262
+2018,Utah,4,Ford Pickup (Full Size),2006,220,238
+2018,Utah,5,Chevrolet Pickup (Full Size),2004,207,225
+2018,Utah,6,Dodge Pickup (Full Size),2012,99,117
+2018,Utah,7,Subaru Impreza,1997,88,106
+2018,Utah,8,Acura Integra,1995,85,103
+2018,Utah,9,Jeep Cherokee/Grand Cherokee,1996,84,102
+2018,Utah,10,Nissan Altima,1997,79,97
+2018,Vermont,1,Chevrolet Pickup (Full Size),2001,3,15
+2018,Vermont,2,Ford Pickup (Full Size),2010,10,8
+2018,Vermont,2,Honda Accord,2002,10,8
+2018,Vermont,3,Hyundai Elantra,2015,11,7
+2018,Vermont,4,Honda Civic,2005,12,6
+2018,Vermont,4,Subaru Legacy,1999,12,6
+2018,Vermont,5,Ford Pickup (Small Size),2002,13,5
+2018,Vermont,5,GMC Pickup (Full Size),2007,13,5
+2018,Vermont,5,Nissan Sentra,2012,13,5
+2018,Vermont,5,Subaru Impreza,2002,13,5
+2018,Virginia,1,Honda Accord,2002,248,266
+2018,Virginia,2,Ford Pickup (Full Size),2004,187,205
+2018,Virginia,3,Honda Civic,2013,182,200
+2018,Virginia,4,Toyota Camry,2014,163,181
+2018,Virginia,5,Nissan Altima,2015,144,162
+2018,Virginia,6,Chevrolet Pickup (Full Size),2003,126,144
+2018,Virginia,7,Toyota Corolla,2013,122,140
+2018,Virginia,8,Ford Explorer,2002,101,119
+2018,Virginia,9,Jeep Cherokee/Grand Cherokee,2001,89,107
+2018,Virginia,10,Chevrolet Impala,2006,87,105
+2018,Washington,1,Honda Accord,1996,3739,"3,757"
+2018,Washington,2,Honda Civic,1998,3095,"3,113"
+2018,Washington,3,Ford Pickup (Full Size),2004,727,745
+2018,Washington,4,Acura Integra,1994,622,640
+2018,Washington,5,Toyota Camry,1989,584,602
+2018,Washington,6,Subaru Legacy,1996,581,599
+2018,Washington,7,Chevrolet Pickup (Full Size),1999,544,562
+2018,Washington,8,Jeep Cherokee/Grand Cherokee,1994,344,362
+2018,Washington,9,Toyota Corolla,2010,314,332
+2018,Washington,10,Nissan Sentra,1997,278,296
+2018,West Virginia,1,Ford Pickup (Full Size),2003,69,87
+2018,West Virginia,2,Chevrolet Pickup (Full Size),2000,58,76
+2018,West Virginia,3,Jeep Cherokee/Grand Cherokee,1996,18,36
+2018,West Virginia,4,Dodge Pickup (Full Size),2003,11,29
+2018,West Virginia,4,Chevrolet Pickup (Small Size),1999,11,29
+2018,West Virginia,5,Chevrolet Impala,2006,6,24
+2018,West Virginia,6,Toyota Camry,2014,2,20
+2018,West Virginia,7,Ford Taurus,1995,1,19
+2018,West Virginia,8,GMC Pickup (Full Size),2011,0,18
+2018,West Virginia,9,Chevrolet Cavalier,2002,,17
+2018,Wisconsin,1,Dodge Caravan,2002,1017,"1,035"
+2018,Wisconsin,2,Honda Civic,1998,452,470
+2018,Wisconsin,3,Honda Accord,1997,432,450
+2018,Wisconsin,4,Chrysler Town & Country,2002,295,313
+2018,Wisconsin,5,Chevrolet Impala,2007,214,232
+2018,Wisconsin,6,Dodge Stratus,2002,191,209
+2018,Wisconsin,7,Toyota Camry,2007,173,191
+2018,Wisconsin,8,Chevrolet Malibu,2015,161,179
+2018,Wisconsin,8,Dodge Intrepid,2002,161,179
+2018,Wisconsin,9,Honda CR-V,2000,154,172
+2018,Wyoming,1,Chevrolet Pickup (Full Size),2007,14,32
+2018,Wyoming,2,Ford Pickup (Full Size),2000,11,29
+2018,Wyoming,3,Dodge Pickup (Full Size),2004,5,13
+2018,Wyoming,4,GMC Pickup (Full Size),2007,8,10
+2018,Wyoming,4,Jeep Cherokee/Grand Cherokee,2000,8,10
+2018,Wyoming,5,Dodge Durango,2002,9,9
+2018,Wyoming,5,Toyota Camry,1997,9,9
+2018,Wyoming,6,GMC Yukon,2002,10,8
+2018,Wyoming,6,Honda Accord,1997,10,8
+2018,Wyoming,7,Chevrolet Cavalier,2003,6,6
