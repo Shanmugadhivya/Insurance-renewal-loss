@@ -2,7 +2,11 @@
 TEAM NO:17
 # TEAM MEMBERS: CSE DEPARTMENT
 
-711715104073-Vineetha.S  711715104076-Yuvaraj.G  711715104054-Shanmuga Dhivya.S
+711715104073-Vineetha.S
+
+711715104076-Yuvaraj.G 
+
+711715104054-Shanmuga Dhivya.S
 
 # TASK SPLITUP
 Module 1:Collection of datasets.(Done by Vineetha)
